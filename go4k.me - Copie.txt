@@ -1,0 +1,4200 @@
+http://go4k.me:80/c/
+MAC = 00:1A:79:00:00:00
+Expiry = February 28, 2025, 12:00 am
+Channels = 6903
+Connections = 0/1
+Timestamp = 2025-01-14 18:04:38
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:00:00
+Expiry = February 28, 2025, 12:00 am
+Channels = 6903
+Connections = 0/1
+Timestamp = 2025-01-14 23:36:06
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:00:02
+Expiry = March 26, 2025, 12:00 am
+Channels = 29183
+Connections = 0/1
+Timestamp = 2025-01-14 23:36:11
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:00:06
+Expiry = February 5, 2025, 2:16 am
+Channels = 33321
+Connections = 0/1
+Timestamp = 2025-01-14 23:36:19
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:00:09
+Expiry = January 23, 2025, 6:36 pm
+Channels = 11713
+Connections = 0/1
+Timestamp = 2025-01-14 23:36:22
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:00:10
+Expiry = January 23, 2025, 8:53 pm
+Channels = 11713
+Connections = 0/1
+Timestamp = 2025-01-14 23:36:31
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:00:15
+Expiry = January 25, 2026, 2:35 am
+Channels = 11713
+Connections = 0/1
+Timestamp = 2025-01-14 23:36:36
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:00:16
+Expiry = February 4, 2025, 6:36 pm
+Channels = 11713
+Connections = 0/1
+Timestamp = 2025-01-14 23:36:40
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:00:22
+Expiry = January 31, 2025, 8:55 am
+Channels = 27236
+Connections = 0/1
+Timestamp = 2025-01-14 23:36:49
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:00:23
+Expiry = February 24, 2025, 5:12 pm
+Channels = 11823
+Connections = 0/1
+Timestamp = 2025-01-14 23:36:52
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:00:25
+Expiry = November 16, 2025, 11:00 pm
+Channels = 32962
+Connections = 0/1
+Timestamp = 2025-01-14 23:37:01
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:00:69
+Expiry = March 8, 2025, 12:00 am
+Channels = 32494
+Connections = 0/1
+Timestamp = 2025-01-14 23:37:46
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:00:73
+Expiry = January 23, 2025, 7:49 pm
+Channels = 11713
+Connections = 0/1
+Timestamp = 2025-01-14 23:37:55
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:00:90
+Expiry = December 31, 2025, 4:14 pm
+Channels = 6516
+Connections = 0/1
+Timestamp = 2025-01-14 23:38:19
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:00:91
+Expiry = December 31, 2025, 6:03 pm
+Channels = 6516
+Connections = 0/1
+Timestamp = 2025-01-14 23:38:23
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:00:99
+Expiry = January 31, 2025, 6:44 am
+Channels = 11713
+Connections = 0/1
+Timestamp = 2025-01-14 23:38:31
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:00:D2
+Expiry = December 23, 2025, 12:00 am
+Channels = 2393
+Connections = 0/1
+Timestamp = 2025-01-14 23:38:54
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:01:81
+Expiry = February 2, 2026, 12:00 am
+Channels = 9221
+Connections = 0/1
+Timestamp = 2025-01-14 23:40:17
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:01:DF
+Expiry = March 12, 2025, 12:00 am
+Channels = 32927
+Connections = 0/1
+Timestamp = 2025-01-14 23:41:07
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:02:CF
+Expiry = October 1, 2025, 12:00 am
+Channels = 10782
+Connections = 0/1
+Timestamp = 2025-01-14 23:42:58
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:03:CA
+Expiry = July 10, 2025, 12:00 am
+Channels = 4204
+Connections = 0/1
+Timestamp = 2025-01-14 23:44:53
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:05:15
+Expiry = January 16, 2025, 1:42 pm
+Channels = 2369
+Connections = 0/1
+Timestamp = 2025-01-14 23:47:14
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:08:25
+Expiry = January 28, 2026, 12:00 am
+Channels = 7603
+Connections = 0/1
+Timestamp = 2025-01-14 23:52:53
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:0A:99
+Expiry = February 11, 2025, 12:00 am
+Channels = 15044
+Connections = 0/1
+Timestamp = 2025-01-14 23:58:09
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:0A:E4
+Expiry = March 8, 2025, 12:00 am
+Channels = 31219
+Connections = 0/1
+Timestamp = 2025-01-14 23:58:50
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:0C:62
+Expiry = February 14, 2025, 9:43 am
+Channels = 5298
+Connections = 0/1
+Timestamp = 2025-01-15 00:01:55
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:0E:AB
+Expiry = February 2, 2025, 7:48 pm
+Channels = 724
+Connections = 0/1
+Timestamp = 2025-01-15 00:06:52
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:0F:0C
+Expiry = March 5, 2025, 12:00 am
+Channels = 11618
+Connections = 0/1
+Timestamp = 2025-01-15 00:07:42
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:0F:2C
+Expiry = February 9, 2025, 12:02 am
+Channels = 29332
+Connections = 0/1
+Timestamp = 2025-01-15 00:08:00
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:0F:9A
+Expiry = January 17, 2026, 12:00 am
+Channels = 11713
+Connections = 0/1
+Timestamp = 2025-01-15 00:08:54
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:0F:C2
+Expiry = August 19, 2026, 12:00 am
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:09:12
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:0F:D3
+Expiry = July 22, 2025, 4:30 pm
+Channels = 9386
+Connections = 0/1
+Timestamp = 2025-01-15 00:09:22
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:0F:D4
+Expiry = July 16, 2026, 8:00 pm
+Channels = 10819
+Connections = 0/1
+Timestamp = 2025-01-15 00:09:24
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:0F:D5
+Expiry = July 17, 2025, 6:10 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:09:27
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:0F:D9
+Expiry = July 14, 2025, 11:02 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:09:31
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:0F:E1
+Expiry = July 24, 2025, 4:19 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:09:37
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:0F:E3
+Expiry = July 19, 2025, 12:00 am
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:09:40
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:0F:E4
+Expiry = July 21, 2025, 9:26 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:09:43
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:0F:F0
+Expiry = March 18, 2025, 12:00 am
+Channels = 8157
+Connections = 0/1
+Timestamp = 2025-01-15 00:09:49
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:0F:FF
+Expiry = January 22, 2025, 4:29 pm
+Channels = 33321
+Connections = 0/1
+Timestamp = 2025-01-15 00:10:02
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:01
+Expiry = May 20, 2025, 12:00 am
+Channels = 19428
+Connections = 0/1
+Timestamp = 2025-01-15 00:10:06
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:13
+Expiry = August 6, 2025, 12:00 am
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:10:23
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:19
+Expiry = July 28, 2025, 12:00 am
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:10:31
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:1C
+Expiry = February 23, 2025, 12:00 am
+Channels = 32927
+Connections = 0/1
+Timestamp = 2025-01-15 00:10:37
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:1E
+Expiry = September 26, 2025, 12:00 am
+Channels = 33169
+Connections = 0/1
+Timestamp = 2025-01-15 00:10:42
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:22
+Expiry = July 25, 2025, 12:00 am
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:10:49
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:4D
+Expiry = September 27, 2025, 12:00 am
+Channels = 33169
+Connections = 0/1
+Timestamp = 2025-01-15 00:11:10
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:53
+Expiry = March 2, 2025, 12:00 am
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:11:20
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:54
+Expiry = August 14, 2025, 12:00 am
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:11:25
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:5A
+Expiry = August 13, 2025, 12:00 am
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:11:34
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:69
+Expiry = June 6, 2025, 4:03 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:11:45
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:6A
+Expiry = June 21, 2025, 12:39 pm
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:11:51
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:6B
+Expiry = June 21, 2025, 12:41 pm
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:11:58
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:6C
+Expiry = June 16, 2025, 12:00 am
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:12:01
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:6F
+Expiry = July 5, 2025, 1:07 pm
+Channels = 33006
+Connections = 0/1
+Timestamp = 2025-01-15 00:12:08
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:70
+Expiry = July 6, 2025, 12:28 am
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:12:11
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:72
+Expiry = July 11, 2025, 7:11 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:12:13
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:7B
+Expiry = May 24, 2025, 7:46 pm
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:12:25
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:7F
+Expiry = June 3, 2025, 10:25 am
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:12:34
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:83
+Expiry = December 22, 2025, 9:36 pm
+Channels = 11698
+Connections = 0/1
+Timestamp = 2025-01-15 00:12:38
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:9B
+Expiry = May 23, 2025, 12:00 am
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:12:55
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:9C
+Expiry = May 16, 2025, 10:14 am
+Channels = 32976
+Connections = 0/1
+Timestamp = 2025-01-15 00:13:00
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:A1
+Expiry = January 17, 2026, 12:00 am
+Channels = 33169
+Connections = 0/1
+Timestamp = 2025-01-15 00:13:08
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:AA
+Expiry = May 17, 2025, 12:00 am
+Channels = 32976
+Connections = 0/1
+Timestamp = 2025-01-15 00:13:19
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:AF
+Expiry = August 9, 2025, 12:00 am
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:13:27
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:B0
+Expiry = August 12, 2025, 12:07 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:13:30
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:B1
+Expiry = August 8, 2025, 4:39 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:13:33
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:B2
+Expiry = August 7, 2025, 7:28 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:13:36
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:B3
+Expiry = August 12, 2025, 9:53 am
+Channels = 9955
+Connections = 0/1
+Timestamp = 2025-01-15 00:13:38
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:B4
+Expiry = August 11, 2025, 6:28 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:13:41
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:B5
+Expiry = August 10, 2025, 2:06 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:13:45
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:B6
+Expiry = August 13, 2025, 7:01 pm
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:13:51
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:B7
+Expiry = August 6, 2025, 12:00 am
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:13:57
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:B8
+Expiry = August 7, 2025, 11:04 am
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:14:04
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:B9
+Expiry = August 3, 2025, 2:45 pm
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:14:11
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:BA
+Expiry = August 4, 2025, 6:24 pm
+Channels = 33226
+Connections = 0/1
+Timestamp = 2025-01-15 00:14:15
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:BB
+Expiry = August 1, 2025, 5:30 pm
+Channels = 20117
+Connections = 0/1
+Timestamp = 2025-01-15 00:14:18
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:BC
+Expiry = August 6, 2025, 12:31 pm
+Channels = 6546
+Connections = 0/1
+Timestamp = 2025-01-15 00:14:20
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:BD
+Expiry = August 15, 2025, 12:00 am
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:14:22
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:BE
+Expiry = August 4, 2025, 8:30 pm
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:14:28
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:BF
+Expiry = August 4, 2025, 12:53 pm
+Channels = 30214
+Connections = 0/1
+Timestamp = 2025-01-15 00:14:34
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:C0
+Expiry = August 4, 2025, 5:50 pm
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:14:41
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:C1
+Expiry = August 3, 2025, 2:41 pm
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:14:49
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:C2
+Expiry = August 5, 2025, 12:00 am
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:14:54
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:C4
+Expiry = June 20, 2025, 3:01 pm
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:15:00
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:C6
+Expiry = June 8, 2025, 1:39 pm
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:15:05
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:C7
+Expiry = July 15, 2025, 11:07 am
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:15:07
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:C9
+Expiry = June 7, 2025, 5:55 pm
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:15:13
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:CA
+Expiry = July 14, 2025, 12:00 am
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:15:17
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:D0
+Expiry = July 18, 2025, 1:45 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:15:22
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:D3
+Expiry = July 15, 2025, 12:23 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:15:25
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:D4
+Expiry = September 20, 2025, 2:29 pm
+Channels = 11561
+Connections = 0/1
+Timestamp = 2025-01-15 00:15:29
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:D5
+Expiry = April 20, 2025, 2:28 pm
+Channels = 32927
+Connections = 0/1
+Timestamp = 2025-01-15 00:15:37
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:D6
+Expiry = April 20, 2025, 2:27 pm
+Channels = 32927
+Connections = 0/1
+Timestamp = 2025-01-15 00:15:45
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:D7
+Expiry = July 3, 2025, 6:30 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:15:48
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:10:FB
+Expiry = August 30, 2025, 12:31 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:16:06
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:2B
+Expiry = April 13, 2025, 9:09 pm
+Channels = 11410
+Connections = 0/1
+Timestamp = 2025-01-15 00:16:33
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:31
+Expiry = June 25, 2025, 12:00 am
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:16:41
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:36
+Expiry = September 14, 2025, 6:48 pm
+Channels = 33169
+Connections = 0/1
+Timestamp = 2025-01-15 00:16:49
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:3B
+Expiry = June 21, 2025, 10:41 am
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:16:58
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:3C
+Expiry = June 13, 2025, 4:49 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:17:00
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:3D
+Expiry = June 27, 2025, 12:00 am
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:17:05
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:3E
+Expiry = July 7, 2025, 10:26 am
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:17:10
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:3F
+Expiry = June 26, 2025, 2:15 pm
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:17:15
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:40
+Expiry = June 25, 2025, 4:54 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:17:18
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:41
+Expiry = June 24, 2025, 7:54 pm
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:17:25
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:42
+Expiry = June 13, 2025, 4:50 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:17:28
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:43
+Expiry = June 15, 2025, 6:50 pm
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:17:34
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:44
+Expiry = June 15, 2025, 11:40 am
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:17:41
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:46
+Expiry = June 29, 2025, 3:50 pm
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:17:47
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:47
+Expiry = July 5, 2025, 7:37 pm
+Channels = 33006
+Connections = 0/1
+Timestamp = 2025-01-15 00:17:53
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:48
+Expiry = June 30, 2025, 12:00 am
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:17:58
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:49
+Expiry = July 1, 2025, 10:31 am
+Channels = 33006
+Connections = 0/1
+Timestamp = 2025-01-15 00:18:03
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:4A
+Expiry = June 29, 2025, 11:37 am
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:18:07
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:4B
+Expiry = June 26, 2025, 5:18 pm
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:18:13
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:4C
+Expiry = June 26, 2025, 2:18 pm
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:18:19
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:4D
+Expiry = July 1, 2025, 11:04 am
+Channels = 33006
+Connections = 0/1
+Timestamp = 2025-01-15 00:18:26
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:4E
+Expiry = July 10, 2025, 3:30 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:18:29
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:55
+Expiry = June 15, 2025, 12:00 am
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:18:33
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:63
+Expiry = April 1, 2025, 8:25 am
+Channels = 32927
+Connections = 0/1
+Timestamp = 2025-01-15 00:18:44
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:64
+Expiry = April 2, 2025, 1:00 am
+Channels = 32927
+Connections = 0/1
+Timestamp = 2025-01-15 00:18:49
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:65
+Expiry = April 28, 2025, 8:29 pm
+Channels = 32927
+Connections = 0/1
+Timestamp = 2025-01-15 00:18:54
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:66
+Expiry = September 14, 2025, 7:01 pm
+Channels = 8868
+Connections = 0/1
+Timestamp = 2025-01-15 00:18:56
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:67
+Expiry = March 29, 2025, 11:28 am
+Channels = 32927
+Connections = 0/1
+Timestamp = 2025-01-15 00:19:01
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:68
+Expiry = March 29, 2025, 11:20 am
+Channels = 32927
+Connections = 0/1
+Timestamp = 2025-01-15 00:19:08
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:69
+Expiry = April 6, 2025, 1:00 am
+Channels = 32927
+Connections = 0/1
+Timestamp = 2025-01-15 00:19:14
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:6A
+Expiry = March 31, 2025, 2:37 pm
+Channels = 32927
+Connections = 0/1
+Timestamp = 2025-01-15 00:19:21
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:6B
+Expiry = March 29, 2025, 12:00 am
+Channels = 32927
+Connections = 0/1
+Timestamp = 2025-01-15 00:19:29
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:6C
+Expiry = April 2, 2025, 9:53 am
+Channels = 32927
+Connections = 0/1
+Timestamp = 2025-01-15 00:19:42
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:6E
+Expiry = April 29, 2025, 7:29 pm
+Channels = 11410
+Connections = 0/1
+Timestamp = 2025-01-15 00:19:45
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:6F
+Expiry = May 27, 2025, 9:39 am
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:19:52
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:70
+Expiry = March 19, 2025, 7:25 pm
+Channels = 32913
+Connections = 0/1
+Timestamp = 2025-01-15 00:20:00
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:71
+Expiry = April 22, 2025, 12:57 pm
+Channels = 11410
+Connections = 0/1
+Timestamp = 2025-01-15 00:20:03
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:72
+Expiry = May 20, 2025, 1:35 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:20:06
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:73
+Expiry = May 31, 2025, 6:26 pm
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:20:14
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:74
+Expiry = March 23, 2025, 4:43 pm
+Channels = 11410
+Connections = 0/1
+Timestamp = 2025-01-15 00:20:18
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:75
+Expiry = May 2, 2025, 2:46 pm
+Channels = 32927
+Connections = 0/1
+Timestamp = 2025-01-15 00:20:26
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:76
+Expiry = May 31, 2025, 1:48 pm
+Channels = 10248
+Connections = 0/1
+Timestamp = 2025-01-15 00:20:29
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:77
+Expiry = July 15, 2025, 9:07 am
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:20:36
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:78
+Expiry = July 9, 2025, 5:50 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:20:39
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:79
+Expiry = July 15, 2025, 1:08 pm
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:20:46
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:7A
+Expiry = July 10, 2025, 6:42 pm
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:20:52
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:7B
+Expiry = July 12, 2025, 7:23 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:20:56
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:7C
+Expiry = July 9, 2025, 5:52 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:20:59
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:7D
+Expiry = July 9, 2025, 12:00 am
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:21:07
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:7E
+Expiry = July 9, 2025, 10:08 am
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:21:15
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:7F
+Expiry = July 20, 2025, 2:19 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:21:18
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:80
+Expiry = July 18, 2025, 7:13 pm
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:21:26
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:81
+Expiry = July 18, 2025, 6:38 pm
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:21:33
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:82
+Expiry = July 26, 2025, 12:00 am
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:21:35
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:83
+Expiry = July 17, 2025, 4:19 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:21:37
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:84
+Expiry = July 23, 2025, 10:28 am
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:21:44
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:85
+Expiry = July 16, 2025, 6:20 pm
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:21:51
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:86
+Expiry = July 17, 2025, 9:44 pm
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:21:57
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:87
+Expiry = July 24, 2025, 2:45 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:22:00
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:88
+Expiry = July 27, 2025, 4:33 pm
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:22:07
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:89
+Expiry = July 20, 2025, 4:00 pm
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:22:13
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:8A
+Expiry = July 14, 2025, 6:37 pm
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:22:19
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:B6
+Expiry = June 13, 2025, 12:00 am
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:22:40
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:BA
+Expiry = May 11, 2025, 12:00 am
+Channels = 1055
+Connections = 0/1
+Timestamp = 2025-01-15 00:22:42
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:BB
+Expiry = June 13, 2025, 12:00 am
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:22:47
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:BD
+Expiry = June 12, 2025, 7:51 pm
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:22:52
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:BF
+Expiry = July 15, 2025, 12:00 am
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:22:58
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:C6
+Expiry = June 28, 2025, 12:00 am
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:23:06
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:DB
+Expiry = May 10, 2025, 12:00 am
+Channels = 32927
+Connections = 0/1
+Timestamp = 2025-01-15 00:23:18
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:DC
+Expiry = May 8, 2025, 7:06 pm
+Channels = 11410
+Connections = 0/1
+Timestamp = 2025-01-15 00:23:21
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:DD
+Expiry = April 26, 2025, 10:42 am
+Channels = 32927
+Connections = 0/1
+Timestamp = 2025-01-15 00:23:25
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:DE
+Expiry = May 7, 2025, 2:32 pm
+Channels = 32927
+Connections = 0/1
+Timestamp = 2025-01-15 00:23:30
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:DF
+Expiry = May 19, 2025, 12:26 pm
+Channels = 32976
+Connections = 0/1
+Timestamp = 2025-01-15 00:23:34
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:E0
+Expiry = May 20, 2025, 8:07 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:23:36
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:E1
+Expiry = April 26, 2025, 10:45 am
+Channels = 32927
+Connections = 0/1
+Timestamp = 2025-01-15 00:23:41
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:E2
+Expiry = May 7, 2025, 2:26 pm
+Channels = 32927
+Connections = 0/1
+Timestamp = 2025-01-15 00:23:48
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:E3
+Expiry = April 28, 2025, 8:41 pm
+Channels = 11410
+Connections = 0/1
+Timestamp = 2025-01-15 00:23:50
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:E4
+Expiry = May 7, 2025, 11:09 am
+Channels = 32927
+Connections = 0/1
+Timestamp = 2025-01-15 00:23:57
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:E5
+Expiry = May 10, 2025, 10:49 am
+Channels = 32927
+Connections = 0/1
+Timestamp = 2025-01-15 00:24:05
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:E7
+Expiry = May 9, 2025, 8:32 pm
+Channels = 11410
+Connections = 0/1
+Timestamp = 2025-01-15 00:24:09
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:E8
+Expiry = May 24, 2025, 12:00 am
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:24:14
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:E9
+Expiry = April 26, 2025, 10:44 am
+Channels = 32927
+Connections = 0/1
+Timestamp = 2025-01-15 00:24:18
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:EA
+Expiry = April 23, 2025, 12:42 pm
+Channels = 11410
+Connections = 0/1
+Timestamp = 2025-01-15 00:24:22
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:EB
+Expiry = April 23, 2025, 12:43 pm
+Channels = 11410
+Connections = 0/1
+Timestamp = 2025-01-15 00:24:24
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:EC
+Expiry = April 23, 2025, 1:49 pm
+Channels = 32927
+Connections = 0/1
+Timestamp = 2025-01-15 00:24:30
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:ED
+Expiry = April 23, 2025, 1:00 am
+Channels = 32927
+Connections = 0/1
+Timestamp = 2025-01-15 00:24:36
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:11:EE
+Expiry = April 23, 2025, 12:49 pm
+Channels = 11410
+Connections = 0/1
+Timestamp = 2025-01-15 00:24:38
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:14
+Expiry = August 6, 2025, 4:03 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:24:55
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:22
+Expiry = April 15, 2025, 7:10 pm
+Channels = 11410
+Connections = 0/1
+Timestamp = 2025-01-15 00:25:01
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:23
+Expiry = January 30, 2026, 12:00 am
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:25:07
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:2C
+Expiry = May 1, 2025, 6:34 pm
+Channels = 32927
+Connections = 0/1
+Timestamp = 2025-01-15 00:25:14
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:2E
+Expiry = April 3, 2025, 5:15 pm
+Channels = 32927
+Connections = 0/1
+Timestamp = 2025-01-15 00:25:20
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:2F
+Expiry = April 20, 2025, 2:28 pm
+Channels = 32927
+Connections = 0/1
+Timestamp = 2025-01-15 00:25:27
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:30
+Expiry = April 12, 2025, 12:17 pm
+Channels = 11410
+Connections = 0/1
+Timestamp = 2025-01-15 00:25:30
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:31
+Expiry = April 10, 2025, 1:13 pm
+Channels = 30958
+Connections = 0/1
+Timestamp = 2025-01-15 00:25:36
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:32
+Expiry = April 3, 2025, 4:42 pm
+Channels = 32927
+Connections = 0/1
+Timestamp = 2025-01-15 00:25:42
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:33
+Expiry = April 23, 2025, 12:46 pm
+Channels = 11410
+Connections = 0/1
+Timestamp = 2025-01-15 00:25:44
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:34
+Expiry = April 6, 2025, 8:12 pm
+Channels = 32927
+Connections = 0/1
+Timestamp = 2025-01-15 00:25:49
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:35
+Expiry = April 24, 2025, 3:10 pm
+Channels = 32927
+Connections = 0/1
+Timestamp = 2025-01-15 00:25:54
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:36
+Expiry = June 22, 2025, 12:00 am
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:26:00
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:37
+Expiry = April 10, 2025, 6:29 pm
+Channels = 11410
+Connections = 0/1
+Timestamp = 2025-01-15 00:26:03
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:38
+Expiry = April 26, 2025, 1:00 am
+Channels = 32927
+Connections = 0/1
+Timestamp = 2025-01-15 00:26:09
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:39
+Expiry = March 30, 2025, 12:00 am
+Channels = 32927
+Connections = 0/1
+Timestamp = 2025-01-15 00:26:16
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:3A
+Expiry = April 5, 2025, 6:57 pm
+Channels = 32927
+Connections = 0/1
+Timestamp = 2025-01-15 00:26:22
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:3B
+Expiry = April 23, 2025, 12:51 pm
+Channels = 11410
+Connections = 0/1
+Timestamp = 2025-01-15 00:26:24
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:3C
+Expiry = May 20, 2025, 7:52 pm
+Channels = 32776
+Connections = 0/1
+Timestamp = 2025-01-15 00:26:30
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:3D
+Expiry = May 2, 2025, 12:03 pm
+Channels = 33226
+Connections = 0/1
+Timestamp = 2025-01-15 00:26:37
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:41
+Expiry = May 1, 2025, 12:00 am
+Channels = 32927
+Connections = 0/1
+Timestamp = 2025-01-15 00:26:45
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:43
+Expiry = May 3, 2025, 12:00 am
+Channels = 32927
+Connections = 0/1
+Timestamp = 2025-01-15 00:26:54
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:46
+Expiry = January 31, 2025, 12:00 am
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:27:02
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:47
+Expiry = May 2, 2025, 12:00 am
+Channels = 32927
+Connections = 0/1
+Timestamp = 2025-01-15 00:27:07
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:48
+Expiry = April 21, 2025, 1:00 am
+Channels = 32927
+Connections = 0/1
+Timestamp = 2025-01-15 00:27:12
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:4F
+Expiry = April 24, 2025, 1:00 am
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:27:19
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:5E
+Expiry = April 25, 2025, 1:31 pm
+Channels = 11410
+Connections = 0/1
+Timestamp = 2025-01-15 00:27:28
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:74
+Expiry = February 4, 2025, 12:16 pm
+Channels = 11713
+Connections = 0/1
+Timestamp = 2025-01-15 00:27:38
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:80
+Expiry = January 29, 2026, 12:30 pm
+Channels = 33321
+Connections = 0/1
+Timestamp = 2025-01-15 00:27:47
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:85
+Expiry = January 2, 2026, 2:54 pm
+Channels = 11712
+Connections = 0/1
+Timestamp = 2025-01-15 00:27:52
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:A5
+Expiry = April 9, 2027, 1:00 am
+Channels = 4024
+Connections = 0/1
+Timestamp = 2025-01-15 00:28:05
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:AB
+Expiry = January 18, 2026, 9:54 pm
+Channels = 11713
+Connections = 0/1
+Timestamp = 2025-01-15 00:28:10
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:AC
+Expiry = January 8, 2026, 3:31 pm
+Channels = 11712
+Connections = 0/1
+Timestamp = 2025-01-15 00:28:13
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:B2
+Expiry = January 6, 2026, 12:00 am
+Channels = 4025
+Connections = 0/1
+Timestamp = 2025-01-15 00:28:15
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:B7
+Expiry = January 11, 2026, 8:06 pm
+Channels = 8059
+Connections = 0/1
+Timestamp = 2025-01-15 00:28:18
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:BA
+Expiry = December 20, 2025, 12:00 am
+Channels = 15452
+Connections = 0/1
+Timestamp = 2025-01-15 00:28:21
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:C4
+Expiry = December 21, 2025, 7:32 pm
+Channels = 8906
+Connections = 0/1
+Timestamp = 2025-01-15 00:28:27
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:CE
+Expiry = October 25, 2025, 12:00 am
+Channels = 3930
+Connections = 0/1
+Timestamp = 2025-01-15 00:28:32
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:E5
+Expiry = May 10, 2025, 12:00 am
+Channels = 3981
+Connections = 0/1
+Timestamp = 2025-01-15 00:28:41
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:EF
+Expiry = December 14, 2025, 12:00 am
+Channels = 3071
+Connections = 0/1
+Timestamp = 2025-01-15 00:28:46
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:F7
+Expiry = July 1, 2025, 12:00 pm
+Channels = 10538
+Connections = 0/1
+Timestamp = 2025-01-15 00:28:51
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:FE
+Expiry = July 11, 2025, 6:21 pm
+Channels = 15760
+Connections = 0/1
+Timestamp = 2025-01-15 00:28:56
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:12:FF
+Expiry = July 31, 2025, 4:30 pm
+Channels = 15760
+Connections = 0/1
+Timestamp = 2025-01-15 00:28:59
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:36
+Expiry = September 2, 2025, 5:00 pm
+Channels = 9833
+Connections = 0/1
+Timestamp = 2025-01-15 00:29:24
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:38
+Expiry = August 5, 2025, 4:39 pm
+Channels = 14300
+Connections = 0/1
+Timestamp = 2025-01-15 00:29:27
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:7E
+Expiry = June 5, 2025, 2:22 pm
+Channels = 15760
+Connections = 0/1
+Timestamp = 2025-01-15 00:29:54
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:88
+Expiry = December 13, 2025, 12:00 am
+Channels = 2481
+Connections = 0/1
+Timestamp = 2025-01-15 00:29:58
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:8C
+Expiry = December 6, 2025, 4:11 pm
+Channels = 3981
+Connections = 0/1
+Timestamp = 2025-01-15 00:30:00
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:93
+Expiry = June 15, 2025, 12:45 pm
+Channels = 15760
+Connections = 0/1
+Timestamp = 2025-01-15 00:30:07
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:95
+Expiry = June 17, 2025, 11:31 am
+Channels = 16838
+Connections = 0/1
+Timestamp = 2025-01-15 00:30:10
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:A0
+Expiry = June 12, 2025, 3:37 pm
+Channels = 15760
+Connections = 0/1
+Timestamp = 2025-01-15 00:30:16
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:A3
+Expiry = June 17, 2025, 12:24 pm
+Channels = 15760
+Connections = 0/1
+Timestamp = 2025-01-15 00:30:20
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:A4
+Expiry = June 3, 2025, 5:15 pm
+Channels = 4768
+Connections = 0/1
+Timestamp = 2025-01-15 00:30:21
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:A6
+Expiry = June 21, 2025, 4:54 pm
+Channels = 15760
+Connections = 0/1
+Timestamp = 2025-01-15 00:30:24
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:A7
+Expiry = May 2, 2025, 12:00 am
+Channels = 3313
+Connections = 0/1
+Timestamp = 2025-01-15 00:30:26
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:A9
+Expiry = March 3, 2025, 12:00 am
+Channels = 3766
+Connections = 0/1
+Timestamp = 2025-01-15 00:30:27
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:AB
+Expiry = March 3, 2025, 12:00 am
+Channels = 2369
+Connections = 0/1
+Timestamp = 2025-01-15 00:30:28
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:AD
+Expiry = April 4, 2025, 1:00 am
+Channels = 2369
+Connections = 0/1
+Timestamp = 2025-01-15 00:30:30
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:B1
+Expiry = February 22, 2025, 12:00 am
+Channels = 5238
+Connections = 0/1
+Timestamp = 2025-01-15 00:30:32
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:B2
+Expiry = March 18, 2025, 12:00 am
+Channels = 3313
+Connections = 0/1
+Timestamp = 2025-01-15 00:30:33
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:B3
+Expiry = February 18, 2025, 12:00 am
+Channels = 2369
+Connections = 0/1
+Timestamp = 2025-01-15 00:30:35
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:B4
+Expiry = March 19, 2025, 12:00 am
+Channels = 33277
+Connections = 0/1
+Timestamp = 2025-01-15 00:30:42
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:B7
+Expiry = April 9, 2025, 1:00 am
+Channels = 7287
+Connections = 0/1
+Timestamp = 2025-01-15 00:30:45
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:B8
+Expiry = March 17, 2025, 12:00 am
+Channels = 4046
+Connections = 0/1
+Timestamp = 2025-01-15 00:30:46
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:BB
+Expiry = November 14, 2025, 11:08 am
+Channels = 14807
+Connections = 0/1
+Timestamp = 2025-01-15 00:30:50
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:BC
+Expiry = September 19, 2025, 12:00 am
+Channels = 19918
+Connections = 0/1
+Timestamp = 2025-01-15 00:30:54
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:BE
+Expiry = November 24, 2025, 4:09 pm
+Channels = 6591
+Connections = 0/1
+Timestamp = 2025-01-15 00:30:56
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:BF
+Expiry = November 28, 2025, 5:09 pm
+Channels = 3596
+Connections = 0/1
+Timestamp = 2025-01-15 00:30:58
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:C0
+Expiry = November 18, 2025, 12:10 pm
+Channels = 2678
+Connections = 0/1
+Timestamp = 2025-01-15 00:30:59
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:C1
+Expiry = November 22, 2025, 4:56 pm
+Channels = 11668
+Connections = 0/1
+Timestamp = 2025-01-15 00:31:02
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:C2
+Expiry = November 24, 2025, 4:34 pm
+Channels = 8126
+Connections = 0/1
+Timestamp = 2025-01-15 00:31:04
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:C4
+Expiry = October 6, 2025, 12:00 am
+Channels = 19288
+Connections = 0/1
+Timestamp = 2025-01-15 00:31:09
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:C5
+Expiry = October 4, 2025, 12:00 am
+Channels = 6031
+Connections = 0/1
+Timestamp = 2025-01-15 00:31:11
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:C8
+Expiry = September 26, 2025, 1:05 pm
+Channels = 23827
+Connections = 0/1
+Timestamp = 2025-01-15 00:31:16
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:C9
+Expiry = March 22, 2025, 12:00 am
+Channels = 3867
+Connections = 0/1
+Timestamp = 2025-01-15 00:31:17
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:CA
+Expiry = December 29, 2025, 11:39 am
+Channels = 3757
+Connections = 0/1
+Timestamp = 2025-01-15 00:31:18
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:CB
+Expiry = November 25, 2025, 1:21 pm
+Channels = 3414
+Connections = 0/1
+Timestamp = 2025-01-15 00:31:19
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:CC
+Expiry = October 1, 2025, 1:15 pm
+Channels = 6859
+Connections = 0/1
+Timestamp = 2025-01-15 00:31:21
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:CD
+Expiry = September 27, 2025, 12:00 am
+Channels = 19003
+Connections = 0/1
+Timestamp = 2025-01-15 00:31:24
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:CE
+Expiry = September 19, 2025, 12:00 am
+Channels = 16151
+Connections = 0/1
+Timestamp = 2025-01-15 00:31:27
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:F7
+Expiry = August 12, 2025, 5:37 pm
+Channels = 21126
+Connections = 0/1
+Timestamp = 2025-01-15 00:31:47
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:F8
+Expiry = December 6, 2025, 12:00 am
+Channels = 3891
+Connections = 0/1
+Timestamp = 2025-01-15 00:31:48
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:F9
+Expiry = August 31, 2025, 5:07 pm
+Channels = 16215
+Connections = 0/1
+Timestamp = 2025-01-15 00:31:51
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:FA
+Expiry = December 3, 2025, 12:00 am
+Channels = 19405
+Connections = 0/1
+Timestamp = 2025-01-15 00:31:54
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:FB
+Expiry = February 8, 2026, 12:48 pm
+Channels = 3201
+Connections = 0/1
+Timestamp = 2025-01-15 00:31:55
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:FC
+Expiry = July 24, 2025, 6:02 pm
+Channels = 3793
+Connections = 0/1
+Timestamp = 2025-01-15 00:31:57
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:FD
+Expiry = September 14, 2025, 12:51 pm
+Channels = 15754
+Connections = 0/1
+Timestamp = 2025-01-15 00:32:00
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:FE
+Expiry = August 12, 2025, 6:15 pm
+Channels = 21437
+Connections = 0/1
+Timestamp = 2025-01-15 00:32:03
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:13:FF
+Expiry = December 4, 2025, 4:56 pm
+Channels = 3880
+Connections = 0/1
+Timestamp = 2025-01-15 00:32:04
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:02
+Expiry = August 11, 2025, 12:19 pm
+Channels = 11370
+Connections = 0/1
+Timestamp = 2025-01-15 00:32:08
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:03
+Expiry = August 10, 2025, 2:34 pm
+Channels = 7244
+Connections = 0/1
+Timestamp = 2025-01-15 00:32:10
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:04
+Expiry = August 2, 2025, 5:09 pm
+Channels = 5126
+Connections = 0/1
+Timestamp = 2025-01-15 00:32:11
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:05
+Expiry = August 12, 2025, 12:46 pm
+Channels = 18636
+Connections = 0/1
+Timestamp = 2025-01-15 00:32:14
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:06
+Expiry = August 11, 2025, 5:45 pm
+Channels = 4584
+Connections = 0/1
+Timestamp = 2025-01-15 00:32:15
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:07
+Expiry = July 21, 2025, 12:00 am
+Channels = 3788
+Connections = 0/1
+Timestamp = 2025-01-15 00:32:17
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:09
+Expiry = July 28, 2025, 6:11 pm
+Channels = 4967
+Connections = 0/1
+Timestamp = 2025-01-15 00:32:18
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:0A
+Expiry = July 28, 2025, 11:32 pm
+Channels = 6948
+Connections = 0/1
+Timestamp = 2025-01-15 00:32:20
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:1F
+Expiry = September 27, 2025, 12:00 am
+Channels = 13912
+Connections = 0/1
+Timestamp = 2025-01-15 00:32:30
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:21
+Expiry = October 31, 2025, 3:48 pm
+Channels = 14620
+Connections = 0/1
+Timestamp = 2025-01-15 00:32:33
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:22
+Expiry = October 20, 2025, 1:16 pm
+Channels = 14658
+Connections = 0/1
+Timestamp = 2025-01-15 00:32:36
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:23
+Expiry = September 14, 2025, 5:16 pm
+Channels = 5632
+Connections = 0/1
+Timestamp = 2025-01-15 00:32:37
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:24
+Expiry = September 14, 2025, 3:27 pm
+Channels = 21888
+Connections = 0/1
+Timestamp = 2025-01-15 00:32:40
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:25
+Expiry = November 24, 2025, 3:23 pm
+Channels = 6745
+Connections = 0/1
+Timestamp = 2025-01-15 00:32:42
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:26
+Expiry = January 17, 2026, 12:00 am
+Channels = 14781
+Connections = 0/1
+Timestamp = 2025-01-15 00:32:44
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:27
+Expiry = November 4, 2025, 11:00 pm
+Channels = 5925
+Connections = 0/1
+Timestamp = 2025-01-15 00:32:46
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:28
+Expiry = November 10, 2025, 10:50 am
+Channels = 17524
+Connections = 0/1
+Timestamp = 2025-01-15 00:32:51
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:29
+Expiry = October 30, 2025, 2:16 pm
+Channels = 15164
+Connections = 0/1
+Timestamp = 2025-01-15 00:32:55
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:2A
+Expiry = November 11, 2025, 12:12 pm
+Channels = 6634
+Connections = 0/1
+Timestamp = 2025-01-15 00:32:57
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:2B
+Expiry = December 20, 2025, 12:00 am
+Channels = 12612
+Connections = 0/1
+Timestamp = 2025-01-15 00:33:01
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:2C
+Expiry = October 18, 2025, 11:50 am
+Channels = 11458
+Connections = 0/1
+Timestamp = 2025-01-15 00:33:03
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:2D
+Expiry = October 27, 2025, 1:40 pm
+Channels = 20577
+Connections = 0/1
+Timestamp = 2025-01-15 00:33:07
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:2F
+Expiry = October 14, 2025, 11:35 am
+Channels = 17431
+Connections = 0/1
+Timestamp = 2025-01-15 00:33:10
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:30
+Expiry = October 13, 2025, 2:52 pm
+Channels = 17663
+Connections = 0/1
+Timestamp = 2025-01-15 00:33:14
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:31
+Expiry = October 13, 2025, 2:54 pm
+Channels = 18771
+Connections = 0/1
+Timestamp = 2025-01-15 00:33:20
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:32
+Expiry = October 26, 2025, 3:02 pm
+Channels = 20944
+Connections = 0/1
+Timestamp = 2025-01-15 00:33:26
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:33
+Expiry = June 15, 2025, 12:00 am
+Channels = 2655
+Connections = 0/1
+Timestamp = 2025-01-15 00:33:27
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:35
+Expiry = February 6, 2026, 6:04 am
+Channels = 8243
+Connections = 0/1
+Timestamp = 2025-01-15 00:33:30
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:37
+Expiry = March 14, 2025, 3:46 pm
+Channels = 2655
+Connections = 0/1
+Timestamp = 2025-01-15 00:33:32
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:38
+Expiry = March 19, 2025, 9:53 am
+Channels = 8246
+Connections = 0/1
+Timestamp = 2025-01-15 00:33:35
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:47
+Expiry = April 11, 2025, 1:00 am
+Channels = 944
+Connections = 0/1
+Timestamp = 2025-01-15 00:33:42
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:48
+Expiry = April 28, 2025, 1:00 am
+Channels = 3766
+Connections = 0/1
+Timestamp = 2025-01-15 00:33:43
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:49
+Expiry = March 31, 2025, 1:00 am
+Channels = 9087
+Connections = 0/1
+Timestamp = 2025-01-15 00:33:46
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:4B
+Expiry = March 7, 2025, 12:00 am
+Channels = 1397
+Connections = 0/1
+Timestamp = 2025-01-15 00:33:47
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:4C
+Expiry = April 8, 2025, 5:24 pm
+Channels = 10884
+Connections = 0/1
+Timestamp = 2025-01-15 00:33:50
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:4D
+Expiry = February 18, 2025, 12:00 am
+Channels = 4046
+Connections = 0/1
+Timestamp = 2025-01-15 00:33:51
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:50
+Expiry = February 19, 2025, 12:00 am
+Channels = 10984
+Connections = 0/1
+Timestamp = 2025-01-15 00:33:55
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:51
+Expiry = April 19, 2025, 1:00 am
+Channels = 1397
+Connections = 0/1
+Timestamp = 2025-01-15 00:33:56
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:52
+Expiry = April 7, 2025, 1:00 am
+Channels = 5856
+Connections = 0/1
+Timestamp = 2025-01-15 00:33:58
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:53
+Expiry = February 25, 2025, 12:00 am
+Channels = 2515
+Connections = 0/1
+Timestamp = 2025-01-15 00:33:59
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:55
+Expiry = February 27, 2025, 12:00 am
+Channels = 14083
+Connections = 0/1
+Timestamp = 2025-01-15 00:34:03
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:56
+Expiry = May 8, 2025, 12:00 am
+Channels = 12240
+Connections = 0/1
+Timestamp = 2025-01-15 00:34:06
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:57
+Expiry = April 17, 2025, 1:00 am
+Channels = 27405
+Connections = 0/1
+Timestamp = 2025-01-15 00:34:13
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:58
+Expiry = April 15, 2025, 1:00 am
+Channels = 10065
+Connections = 0/1
+Timestamp = 2025-01-15 00:34:15
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:59
+Expiry = March 19, 2025, 12:00 am
+Channels = 19512
+Connections = 0/1
+Timestamp = 2025-01-15 00:34:18
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:5B
+Expiry = December 6, 2025, 3:26 pm
+Channels = 11669
+Connections = 0/1
+Timestamp = 2025-01-15 00:34:21
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:6F
+Expiry = February 18, 2025, 12:00 am
+Channels = 11659
+Connections = 0/1
+Timestamp = 2025-01-15 00:34:34
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:70
+Expiry = March 1, 2025, 12:00 am
+Channels = 2757
+Connections = 0/1
+Timestamp = 2025-01-15 00:34:35
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:72
+Expiry = March 4, 2025, 12:00 am
+Channels = 2744
+Connections = 0/1
+Timestamp = 2025-01-15 00:34:36
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:74
+Expiry = February 18, 2025, 12:00 am
+Channels = 11696
+Connections = 0/1
+Timestamp = 2025-01-15 00:34:39
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:75
+Expiry = April 21, 2025, 1:00 am
+Channels = 2744
+Connections = 0/1
+Timestamp = 2025-01-15 00:34:41
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:77
+Expiry = April 5, 2025, 1:00 am
+Channels = 4154
+Connections = 0/1
+Timestamp = 2025-01-15 00:34:43
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:7A
+Expiry = April 6, 2025, 1:00 am
+Channels = 9039
+Connections = 0/1
+Timestamp = 2025-01-15 00:34:45
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:7B
+Expiry = March 19, 2025, 12:00 am
+Channels = 7018
+Connections = 0/1
+Timestamp = 2025-01-15 00:34:46
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:83
+Expiry = May 28, 2025, 5:40 pm
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:34:55
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:84
+Expiry = May 29, 2025, 10:02 am
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:35:00
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:85
+Expiry = May 28, 2025, 2:10 pm
+Channels = 31335
+Connections = 0/1
+Timestamp = 2025-01-15 00:35:07
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:86
+Expiry = May 31, 2025, 6:07 pm
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:35:14
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:87
+Expiry = May 29, 2025, 8:10 pm
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:35:19
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:88
+Expiry = May 28, 2025, 2:44 pm
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:35:25
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:89
+Expiry = May 27, 2025, 12:13 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:35:28
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:8A
+Expiry = May 28, 2025, 5:43 pm
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:35:33
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:8B
+Expiry = May 30, 2025, 2:28 pm
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:35:37
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:8C
+Expiry = May 31, 2025, 12:00 am
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:35:43
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:8D
+Expiry = May 26, 2025, 7:48 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:35:45
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:8E
+Expiry = May 31, 2025, 7:57 pm
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:35:49
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:8F
+Expiry = May 28, 2025, 2:27 pm
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:35:55
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:90
+Expiry = June 3, 2025, 3:39 pm
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:36:01
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:91
+Expiry = June 2, 2025, 5:50 pm
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:36:07
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:92
+Expiry = May 28, 2025, 2:39 pm
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:36:12
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:93
+Expiry = May 27, 2025, 6:33 pm
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:36:17
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:94
+Expiry = June 1, 2025, 2:40 pm
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:36:21
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:95
+Expiry = June 1, 2025, 2:44 pm
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:36:27
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:96
+Expiry = May 27, 2025, 12:17 pm
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:36:31
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:97
+Expiry = December 31, 2025, 9:28 pm
+Channels = 31309
+Connections = 0/1
+Timestamp = 2025-01-15 00:36:37
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:98
+Expiry = January 12, 2026, 8:17 pm
+Channels = 31310
+Connections = 0/1
+Timestamp = 2025-01-15 00:36:41
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:99
+Expiry = January 22, 2026, 12:36 am
+Channels = 3477
+Connections = 0/1
+Timestamp = 2025-01-15 00:36:43
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:9A
+Expiry = December 13, 2025, 12:00 am
+Channels = 31266
+Connections = 0/1
+Timestamp = 2025-01-15 00:36:49
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:9B
+Expiry = November 23, 2025, 10:33 am
+Channels = 6352
+Connections = 0/1
+Timestamp = 2025-01-15 00:36:51
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:9C
+Expiry = December 10, 2025, 2:31 pm
+Channels = 15941
+Connections = 0/1
+Timestamp = 2025-01-15 00:36:54
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:9E
+Expiry = January 13, 2026, 3:43 pm
+Channels = 31310
+Connections = 0/1
+Timestamp = 2025-01-15 00:36:59
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:9F
+Expiry = January 2, 2026, 12:14 pm
+Channels = 31309
+Connections = 0/1
+Timestamp = 2025-01-15 00:37:04
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:A0
+Expiry = January 14, 2026, 3:19 pm
+Channels = 14338
+Connections = 0/1
+Timestamp = 2025-01-15 00:37:07
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:A1
+Expiry = November 15, 2025, 2:31 pm
+Channels = 2143
+Connections = 0/1
+Timestamp = 2025-01-15 00:37:07
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:A2
+Expiry = April 20, 2025, 11:38 pm
+Channels = 3477
+Connections = 0/1
+Timestamp = 2025-01-15 00:37:08
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:A3
+Expiry = November 18, 2025, 11:58 am
+Channels = 10594
+Connections = 0/1
+Timestamp = 2025-01-15 00:37:10
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:A4
+Expiry = December 4, 2025, 8:18 pm
+Channels = 14216
+Connections = 0/1
+Timestamp = 2025-01-15 00:37:13
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:A5
+Expiry = January 12, 2026, 8:16 pm
+Channels = 11856
+Connections = 0/1
+Timestamp = 2025-01-15 00:37:16
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:A6
+Expiry = November 16, 2025, 5:49 pm
+Channels = 2143
+Connections = 0/1
+Timestamp = 2025-01-15 00:37:17
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:A8
+Expiry = December 8, 2025, 12:00 am
+Channels = 16292
+Connections = 0/1
+Timestamp = 2025-01-15 00:37:22
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:A9
+Expiry = November 18, 2025, 12:27 pm
+Channels = 10562
+Connections = 0/1
+Timestamp = 2025-01-15 00:37:25
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:AA
+Expiry = November 30, 2025, 10:23 pm
+Channels = 2149
+Connections = 0/1
+Timestamp = 2025-01-15 00:37:26
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:AB
+Expiry = January 9, 2026, 6:00 pm
+Channels = 2010
+Connections = 0/1
+Timestamp = 2025-01-15 00:37:27
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:AC
+Expiry = December 23, 2025, 12:00 am
+Channels = 15939
+Connections = 0/1
+Timestamp = 2025-01-15 00:37:31
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:AD
+Expiry = January 20, 2026, 11:44 am
+Channels = 21757
+Connections = 0/1
+Timestamp = 2025-01-15 00:37:35
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:AE
+Expiry = December 20, 2025, 12:00 am
+Channels = 21397
+Connections = 0/1
+Timestamp = 2025-01-15 00:37:38
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:AF
+Expiry = January 18, 2026, 12:08 pm
+Channels = 3468
+Connections = 0/1
+Timestamp = 2025-01-15 00:37:40
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:B0
+Expiry = January 22, 2026, 12:23 pm
+Channels = 3267
+Connections = 0/1
+Timestamp = 2025-01-15 00:37:41
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:B1
+Expiry = January 19, 2025, 4:41 pm
+Channels = 2010
+Connections = 0/1
+Timestamp = 2025-01-15 00:37:42
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:B2
+Expiry = December 22, 2025, 12:00 am
+Channels = 12974
+Connections = 0/1
+Timestamp = 2025-01-15 00:37:44
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:B3
+Expiry = December 23, 2025, 12:00 am
+Channels = 17452
+Connections = 0/1
+Timestamp = 2025-01-15 00:37:48
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:B4
+Expiry = December 27, 2025, 2:34 pm
+Channels = 2858
+Connections = 0/1
+Timestamp = 2025-01-15 00:37:49
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:B7
+Expiry = June 8, 2025, 12:00 am
+Channels = 24251
+Connections = 0/1
+Timestamp = 2025-01-15 00:37:53
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:B8
+Expiry = December 10, 2025, 12:00 am
+Channels = 3285
+Connections = 0/1
+Timestamp = 2025-01-15 00:37:54
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:B9
+Expiry = December 13, 2025, 2:01 pm
+Channels = 12634
+Connections = 0/1
+Timestamp = 2025-01-15 00:37:56
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:BA
+Expiry = January 1, 2026, 5:07 pm
+Channels = 7266
+Connections = 0/1
+Timestamp = 2025-01-15 00:37:58
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:BB
+Expiry = December 29, 2025, 12:00 am
+Channels = 3303
+Connections = 0/1
+Timestamp = 2025-01-15 00:37:59
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:BD
+Expiry = January 1, 2026, 2:44 pm
+Channels = 16863
+Connections = 0/1
+Timestamp = 2025-01-15 00:38:02
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:BE
+Expiry = January 9, 2026, 12:19 pm
+Channels = 20699
+Connections = 0/1
+Timestamp = 2025-01-15 00:38:07
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:C3
+Expiry = June 14, 2025, 12:34 pm
+Channels = 8374
+Connections = 0/1
+Timestamp = 2025-01-15 00:38:11
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:C4
+Expiry = May 30, 2025, 2:19 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:38:14
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:C6
+Expiry = March 12, 2025, 12:00 am
+Channels = 8157
+Connections = 0/1
+Timestamp = 2025-01-15 00:38:17
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:C9
+Expiry = June 3, 2025, 7:51 pm
+Channels = 9248
+Connections = 0/1
+Timestamp = 2025-01-15 00:38:21
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:CA
+Expiry = March 12, 2025, 12:00 am
+Channels = 7166
+Connections = 0/1
+Timestamp = 2025-01-15 00:38:23
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:CD
+Expiry = June 7, 2025, 9:38 pm
+Channels = 10774
+Connections = 0/1
+Timestamp = 2025-01-15 00:38:26
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:DD
+Expiry = July 24, 2025, 8:11 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:38:34
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:FB
+Expiry = July 29, 2025, 12:00 am
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:38:46
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:FC
+Expiry = July 25, 2025, 7:16 pm
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:38:51
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:FD
+Expiry = July 29, 2025, 4:13 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:38:53
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:FE
+Expiry = July 26, 2025, 11:19 am
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:38:58
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:14:FF
+Expiry = July 28, 2025, 5:15 pm
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:39:04
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:00
+Expiry = December 15, 2025, 8:12 am
+Channels = 33277
+Connections = 0/1
+Timestamp = 2025-01-15 00:39:09
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:02
+Expiry = July 24, 2025, 5:33 pm
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:39:18
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:03
+Expiry = July 26, 2025, 5:26 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:39:23
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:04
+Expiry = July 29, 2025, 9:42 am
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:39:32
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:05
+Expiry = July 24, 2025, 12:00 am
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:39:38
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:06
+Expiry = July 28, 2025, 3:29 pm
+Channels = 30067
+Connections = 0/1
+Timestamp = 2025-01-15 00:39:42
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:07
+Expiry = July 26, 2025, 3:39 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:39:44
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:08
+Expiry = July 21, 2025, 5:13 pm
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:39:48
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:09
+Expiry = July 26, 2025, 4:09 pm
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:39:53
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:0A
+Expiry = July 21, 2025, 6:51 pm
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:39:57
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:0B
+Expiry = July 22, 2025, 2:31 pm
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:40:05
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:0C
+Expiry = July 28, 2025, 3:00 pm
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:40:15
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:0D
+Expiry = July 29, 2025, 4:34 pm
+Channels = 6483
+Connections = 0/1
+Timestamp = 2025-01-15 00:40:17
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:0E
+Expiry = July 30, 2025, 6:18 pm
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:40:24
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:10
+Expiry = July 6, 2025, 5:03 pm
+Channels = 28643
+Connections = 0/1
+Timestamp = 2025-01-15 00:40:30
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:11
+Expiry = June 30, 2025, 7:19 pm
+Channels = 21128
+Connections = 0/1
+Timestamp = 2025-01-15 00:40:36
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:12
+Expiry = September 29, 2025, 3:16 pm
+Channels = 5294
+Connections = 0/1
+Timestamp = 2025-01-15 00:40:38
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:13
+Expiry = July 3, 2025, 2:55 pm
+Channels = 30750
+Connections = 0/1
+Timestamp = 2025-01-15 00:40:46
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:14
+Expiry = August 10, 2025, 9:27 pm
+Channels = 7107
+Connections = 0/1
+Timestamp = 2025-01-15 00:40:50
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:15
+Expiry = February 28, 2025, 12:00 am
+Channels = 19257
+Connections = 0/1
+Timestamp = 2025-01-15 00:40:59
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:16
+Expiry = November 15, 2025, 11:00 pm
+Channels = 31266
+Connections = 0/1
+Timestamp = 2025-01-15 00:41:09
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:17
+Expiry = January 10, 2026, 12:45 pm
+Channels = 2172
+Connections = 0/1
+Timestamp = 2025-01-15 00:41:11
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:1C
+Expiry = November 7, 2025, 1:20 pm
+Channels = 22323
+Connections = 0/1
+Timestamp = 2025-01-15 00:41:19
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:1D
+Expiry = October 29, 2025, 4:19 pm
+Channels = 19825
+Connections = 0/1
+Timestamp = 2025-01-15 00:41:22
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:1E
+Expiry = February 23, 2025, 1:23 am
+Channels = 8157
+Connections = 0/1
+Timestamp = 2025-01-15 00:41:24
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:20
+Expiry = July 3, 2025, 2:48 pm
+Channels = 15498
+Connections = 0/1
+Timestamp = 2025-01-15 00:41:28
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:21
+Expiry = December 26, 2025, 7:26 pm
+Channels = 22069
+Connections = 0/1
+Timestamp = 2025-01-15 00:41:34
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:22
+Expiry = August 28, 2025, 12:00 am
+Channels = 3403
+Connections = 0/1
+Timestamp = 2025-01-15 00:41:35
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:42
+Expiry = November 10, 2025, 11:00 pm
+Channels = 3981
+Connections = 0/1
+Timestamp = 2025-01-15 00:41:49
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:43
+Expiry = November 18, 2025, 11:00 pm
+Channels = 3981
+Connections = 0/1
+Timestamp = 2025-01-15 00:41:51
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:45
+Expiry = December 15, 2026, 12:00 am
+Channels = 5339
+Connections = 0/1
+Timestamp = 2025-01-15 00:41:55
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:4D
+Expiry = June 12, 2025, 8:15 pm
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:42:05
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:4E
+Expiry = July 11, 2025, 7:11 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:42:09
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:4F
+Expiry = June 8, 2025, 4:04 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:42:12
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:50
+Expiry = June 21, 2025, 12:41 pm
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:42:20
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:52
+Expiry = June 5, 2025, 10:37 am
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:42:26
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:53
+Expiry = June 12, 2025, 6:58 pm
+Channels = 32004
+Connections = 0/1
+Timestamp = 2025-01-15 00:42:35
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:54
+Expiry = June 4, 2025, 9:07 am
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:42:38
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:55
+Expiry = June 10, 2025, 4:26 pm
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:42:44
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:56
+Expiry = June 12, 2025, 8:04 pm
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:42:49
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:57
+Expiry = June 3, 2025, 12:00 am
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:42:53
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:58
+Expiry = July 31, 2025, 6:11 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:42:56
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:59
+Expiry = June 11, 2025, 10:44 am
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:43:04
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:7D
+Expiry = February 17, 2025, 3:20 pm
+Channels = 2369
+Connections = 0/1
+Timestamp = 2025-01-15 00:43:23
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:83
+Expiry = April 19, 2025, 1:00 am
+Channels = 944
+Connections = 0/1
+Timestamp = 2025-01-15 00:43:26
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:8C
+Expiry = January 11, 2027, 12:00 am
+Channels = 29205
+Connections = 0/1
+Timestamp = 2025-01-15 00:43:41
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:9B
+Expiry = September 22, 2025, 4:57 pm
+Channels = 11561
+Connections = 0/1
+Timestamp = 2025-01-15 00:43:50
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:9C
+Expiry = December 28, 2025, 7:56 pm
+Channels = 11712
+Connections = 0/1
+Timestamp = 2025-01-15 00:43:52
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:9D
+Expiry = December 8, 2025, 7:39 pm
+Channels = 11669
+Connections = 0/1
+Timestamp = 2025-01-15 00:43:55
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:9E
+Expiry = March 10, 2026, 12:00 am
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:43:58
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:9F
+Expiry = August 12, 2025, 11:45 am
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:44:01
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:A0
+Expiry = January 11, 2026, 2:05 pm
+Channels = 11713
+Connections = 0/1
+Timestamp = 2025-01-15 00:44:05
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:A1
+Expiry = August 14, 2025, 12:00 am
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:44:10
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:A2
+Expiry = August 13, 2025, 12:00 am
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:44:14
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:A3
+Expiry = August 19, 2025, 9:20 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:44:18
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:A6
+Expiry = January 28, 2026, 2:11 pm
+Channels = 22022
+Connections = 0/1
+Timestamp = 2025-01-15 00:44:26
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:A7
+Expiry = December 23, 2025, 12:24 pm
+Channels = 10600
+Connections = 0/1
+Timestamp = 2025-01-15 00:44:31
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:AB
+Expiry = February 24, 2025, 12:00 am
+Channels = 7602
+Connections = 0/1
+Timestamp = 2025-01-15 00:44:35
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:AC
+Expiry = January 11, 2026, 2:13 pm
+Channels = 28242
+Connections = 0/1
+Timestamp = 2025-01-15 00:44:43
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:AD
+Expiry = September 13, 2025, 4:37 pm
+Channels = 11561
+Connections = 0/1
+Timestamp = 2025-01-15 00:44:47
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:AE
+Expiry = August 18, 2026, 12:00 am
+Channels = 28091
+Connections = 0/1
+Timestamp = 2025-01-15 00:44:54
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:B4
+Expiry = December 15, 2025, 12:00 am
+Channels = 10142
+Connections = 0/1
+Timestamp = 2025-01-15 00:44:58
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:BC
+Expiry = January 18, 2026, 12:00 am
+Channels = 4267
+Connections = 0/1
+Timestamp = 2025-01-15 00:45:04
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:C5
+Expiry = July 7, 2025, 12:00 am
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:45:13
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:C6
+Expiry = July 8, 2025, 12:00 am
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:45:19
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:C9
+Expiry = July 19, 2025, 12:00 am
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:45:26
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:CB
+Expiry = July 1, 2025, 9:06 am
+Channels = 33006
+Connections = 0/1
+Timestamp = 2025-01-15 00:45:38
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:CD
+Expiry = June 28, 2025, 12:00 am
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:45:46
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:D3
+Expiry = July 1, 2025, 9:05 am
+Channels = 33006
+Connections = 0/1
+Timestamp = 2025-01-15 00:45:55
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:D6
+Expiry = June 28, 2025, 12:00 am
+Channels = 32995
+Connections = 0/1
+Timestamp = 2025-01-15 00:46:03
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:15:FF
+Expiry = March 26, 2025, 12:00 am
+Channels = 724
+Connections = 0/1
+Timestamp = 2025-01-15 00:46:19
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:16:00
+Expiry = March 10, 2025, 12:00 am
+Channels = 4710
+Connections = 0/1
+Timestamp = 2025-01-15 00:46:20
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:16:01
+Expiry = March 8, 2025, 12:00 am
+Channels = 3790
+Connections = 0/1
+Timestamp = 2025-01-15 00:46:22
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:16:02
+Expiry = February 18, 2025, 12:00 am
+Channels = 2686
+Connections = 0/1
+Timestamp = 2025-01-15 00:46:23
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:16:04
+Expiry = March 3, 2025, 12:00 am
+Channels = 944
+Connections = 0/1
+Timestamp = 2025-01-15 00:46:24
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:16:05
+Expiry = April 2, 2025, 1:00 am
+Channels = 1677
+Connections = 0/1
+Timestamp = 2025-01-15 00:46:26
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:16:07
+Expiry = March 3, 2025, 12:00 am
+Channels = 2302
+Connections = 0/1
+Timestamp = 2025-01-15 00:46:28
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:16:08
+Expiry = March 9, 2025, 12:00 am
+Channels = 10028
+Connections = 0/1
+Timestamp = 2025-01-15 00:46:31
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:16:09
+Expiry = February 11, 2025, 12:00 am
+Channels = 3766
+Connections = 0/1
+Timestamp = 2025-01-15 00:46:32
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:16:0A
+Expiry = April 1, 2025, 1:00 am
+Channels = 2412
+Connections = 0/1
+Timestamp = 2025-01-15 00:46:33
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:16:0D
+Expiry = March 9, 2025, 12:00 am
+Channels = 944
+Connections = 0/1
+Timestamp = 2025-01-15 00:46:36
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:16:10
+Expiry = March 30, 2025, 12:00 am
+Channels = 5486
+Connections = 0/1
+Timestamp = 2025-01-15 00:46:40
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:16:18
+Expiry = May 8, 2025, 1:22 pm
+Channels = 11410
+Connections = 0/1
+Timestamp = 2025-01-15 00:46:48
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:16:1B
+Expiry = June 5, 2025, 5:21 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:46:52
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:16:1F
+Expiry = May 14, 2025, 10:59 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:47:01
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:16:20
+Expiry = May 26, 2025, 12:00 am
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:47:06
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:16:2F
+Expiry = January 28, 2025, 7:37 pm
+Channels = 33321
+Connections = 0/1
+Timestamp = 2025-01-15 00:47:24
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:16:35
+Expiry = April 22, 2025, 1:00 am
+Channels = 1112
+Connections = 0/1
+Timestamp = 2025-01-15 00:47:28
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:16:50
+Expiry = August 3, 2025, 2:04 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 00:47:45
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:16:59
+Expiry = July 26, 2025, 2:21 pm
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:47:57
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:16:5A
+Expiry = July 26, 2025, 2:22 pm
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:48:02
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:16:5B
+Expiry = August 15, 2025, 4:53 pm
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:48:07
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:16:5C
+Expiry = August 8, 2025, 12:00 am
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:48:12
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:16:5D
+Expiry = August 1, 2025, 12:03 pm
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:48:18
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:16:60
+Expiry = August 5, 2025, 12:00 am
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:48:26
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:16:61
+Expiry = August 29, 2025, 12:00 am
+Channels = 33040
+Connections = 0/1
+Timestamp = 2025-01-15 00:48:31
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:16:C8
+Expiry = August 26, 2025, 3:05 pm
+Channels = 3920
+Connections = 0/1
+Timestamp = 2025-01-15 01:11:00
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:16:C9
+Expiry = December 24, 2025, 5:53 pm
+Channels = 11712
+Connections = 0/1
+Timestamp = 2025-01-15 01:11:03
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:16:D6
+Expiry = September 23, 2025, 12:00 am
+Channels = 33306
+Connections = 0/1
+Timestamp = 2025-01-15 01:11:15
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:16:D7
+Expiry = October 24, 2025, 12:00 am
+Channels = 3299
+Connections = 0/1
+Timestamp = 2025-01-15 01:11:17
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:16:D9
+Expiry = October 25, 2025, 11:42 pm
+Channels = 33226
+Connections = 0/1
+Timestamp = 2025-01-15 01:11:22
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:16:DA
+Expiry = December 1, 2025, 12:00 am
+Channels = 11712
+Connections = 0/1
+Timestamp = 2025-01-15 01:11:24
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:16:EF
+Expiry = September 27, 2025, 1:36 pm
+Channels = 11561
+Connections = 0/1
+Timestamp = 2025-01-15 01:11:36
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:16:F0
+Expiry = October 9, 2025, 4:01 pm
+Channels = 11561
+Connections = 0/1
+Timestamp = 2025-01-15 01:11:38
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:16:F6
+Expiry = August 30, 2025, 12:00 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 01:11:43
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:16:F9
+Expiry = August 4, 2025, 9:48 am
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 01:11:46
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:16:FD
+Expiry = September 12, 2025, 10:30 am
+Channels = 11561
+Connections = 0/1
+Timestamp = 2025-01-15 01:11:54
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:16:FE
+Expiry = August 4, 2025, 10:24 am
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 01:11:57
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:17:17
+Expiry = January 17, 2026, 12:00 am
+Channels = 7078
+Connections = 0/1
+Timestamp = 2025-01-15 01:12:11
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:17:18
+Expiry = February 2, 2026, 12:03 pm
+Channels = 3267
+Connections = 0/1
+Timestamp = 2025-01-15 01:12:12
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:17:1A
+Expiry = January 27, 2026, 2:20 pm
+Channels = 11005
+Connections = 0/1
+Timestamp = 2025-01-15 01:12:15
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:17:1B
+Expiry = January 29, 2026, 12:53 pm
+Channels = 11296
+Connections = 0/1
+Timestamp = 2025-01-15 01:12:18
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:17:1D
+Expiry = November 11, 2025, 1:02 pm
+Channels = 11727
+Connections = 0/1
+Timestamp = 2025-01-15 01:12:21
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:17:1E
+Expiry = January 23, 2026, 12:00 am
+Channels = 15199
+Connections = 0/1
+Timestamp = 2025-01-15 01:12:24
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:17:1F
+Expiry = January 26, 2026, 12:00 am
+Channels = 18378
+Connections = 0/1
+Timestamp = 2025-01-15 01:12:28
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:17:20
+Expiry = February 7, 2026, 4:13 pm
+Channels = 7555
+Connections = 0/1
+Timestamp = 2025-01-15 01:12:30
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:17:25
+Expiry = December 27, 2025, 3:44 pm
+Channels = 17387
+Connections = 0/1
+Timestamp = 2025-01-15 01:12:35
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:17:27
+Expiry = January 22, 2026, 2:07 pm
+Channels = 15360
+Connections = 0/1
+Timestamp = 2025-01-15 01:12:38
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:17:3F
+Expiry = April 26, 2025, 3:10 pm
+Channels = 30916
+Connections = 0/1
+Timestamp = 2025-01-15 01:12:51
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:17:40
+Expiry = July 29, 2025, 1:37 pm
+Channels = 31029
+Connections = 0/1
+Timestamp = 2025-01-15 01:12:56
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:17:41
+Expiry = January 30, 2026, 3:32 pm
+Channels = 11713
+Connections = 0/1
+Timestamp = 2025-01-15 01:12:58
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:17:43
+Expiry = July 12, 2025, 7:07 pm
+Channels = 15414
+Connections = 0/1
+Timestamp = 2025-01-15 01:13:01
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:17:44
+Expiry = July 29, 2025, 1:07 pm
+Channels = 31029
+Connections = 0/1
+Timestamp = 2025-01-15 01:13:07
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:17:45
+Expiry = January 9, 2026, 1:10 pm
+Channels = 31309
+Connections = 0/1
+Timestamp = 2025-01-15 01:13:21
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:17:46
+Expiry = May 5, 2026, 12:00 am
+Channels = 7646
+Connections = 0/1
+Timestamp = 2025-01-15 01:13:26
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:17:47
+Expiry = August 1, 2025, 4:02 pm
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 01:13:29
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:17:48
+Expiry = July 18, 2026, 12:00 am
+Channels = 11432
+Connections = 0/1
+Timestamp = 2025-01-15 01:13:32
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:17:4A
+Expiry = April 2, 2026, 1:00 am
+Channels = 11410
+Connections = 0/1
+Timestamp = 2025-01-15 01:13:36
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:17:4B
+Expiry = August 4, 2026, 12:00 am
+Channels = 29891
+Connections = 0/1
+Timestamp = 2025-01-15 01:13:41
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:17:4D
+Expiry = November 11, 2025, 11:00 pm
+Channels = 1491
+Connections = 0/1
+Timestamp = 2025-01-15 01:13:43
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:17:4E
+Expiry = April 26, 2025, 4:39 pm
+Channels = 30916
+Connections = 0/1
+Timestamp = 2025-01-15 01:13:49
+--------------------------------------------------
+
+http://go4k.me:80/c//c/
+MAC = 00:1A:79:00:17:4F
+Expiry = December 26, 2025, 5:50 pm
+Channels = 31309
+Connections = 0/1
+Timestamp = 2025-01-15 01:13:58
+--------------------------------------------------
+
