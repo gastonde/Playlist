@@ -1,0 +1,285 @@
+#EXTM3U
+#EXTINF:0 group-title="FR| FRANCE LQ" tvg-logo="http://103.176.90.118/picons/logos/france/FRANCE.png",##### BEIN SPORTS LQ #####
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=814945&extension=ts&play_token=tX3Fgkff5K
+#EXTINF:0 tvg-logo="http://103.176.90.118/piconsnew/beinsportsnews.png" group-title="AR| BEIN SPORTS SD",AR| BEIN SPORTS NEWS LQ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330471&extension=ts&play_token=C1XXYUYFE6
+#EXTINF:0 tvg-logo="http://103.176.90.118/picons/logos/BEINSPORTS-GLOBAL.jpeg" group-title="AR| BEIN SPORTS SD",AR| BEIN SPORTS GLOBAL LQ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330472&extension=ts&play_token=4W6YU5kKee
+#EXTINF:0 group-title="AR| BEIN SPORTS SD" tvg-logo="http://103.176.90.118/piconsnew/beinsportshd1.png",AR| BEIN SPORTS 1 LQ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330474&extension=ts&play_token=e57uEW6JDa
+#EXTINF:0 group-title="AR| BEIN SPORTS SD" tvg-logo="http://103.176.90.118/piconsnew/beinsportshd2.png",AR| BEIN SPORTS 2 LQ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330475&extension=ts&play_token=3Y0XVgIGvF
+#EXTINF:0 tvg-logo="http://103.176.90.118/piconsnew/beinsportshd3.png" group-title="AR| BEIN SPORTS SD",AR| BEIN SPORTS 3 LQ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330476&extension=ts&play_token=1I0smvs2Ya
+#EXTINF:0 group-title="AR| BEIN SPORTS SD" tvg-logo="http://103.176.90.118/piconsnew/beinsportshd4.png",AR| BEIN SPORTS 4 LQ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330477&extension=ts&play_token=6PcWIB1Flt
+#EXTINF:0 group-title="AR| BEIN SPORTS SD" tvg-logo="http://103.176.90.118/piconsnew/beinsports5.png",AR| BEIN SPORTS 5 LQ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330478&extension=ts&play_token=vrn1CMwcD6
+#EXTINF:0 tvg-logo="http://103.176.90.118/piconsnew/beinsports6.png" group-title="AR| BEIN SPORTS SD",AR| BEIN SPORTS 6 LQ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330479&extension=ts&play_token=3Cr6pQcc09
+#EXTINF:0 group-title="AR| BEIN SPORTS SD" tvg-logo="http://103.176.90.118/piconsnew/beinsports7.png",AR| BEIN SPORTS 7 LQ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330480&extension=ts&play_token=xb6mZF7CzS
+#EXTINF:0 group-title="AR| BEIN SPORTS SD" tvg-logo="http://103.176.90.118/piconsnew/beinsports8.png",AR| BEIN SPORTS 8 LQ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330481&extension=ts&play_token=3RtK3vAvxp
+#EXTINF:0 tvg-logo="http://103.176.90.118/piconsnew/beinsportshd9.png" group-title="AR| BEIN SPORTS SD",AR| BEIN SPORTS 9 LQ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330482&extension=ts&play_token=X6TkAAV0pI
+#EXTINF:0 group-title="AR| BEIN SPORTS SD" tvg-logo="http://103.176.90.118/piconsnew/beinsportsxtra1.png",AR| BEIN SPORTS 1 XTRA LQ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330483&extension=ts&play_token=XPB6su5kne
+#EXTINF:0 tvg-logo="http://103.176.90.118/piconsnew/beinsportsxtra2.png" group-title="AR| BEIN SPORTS SD",AR| BEIN SPORTS 2 XTRA LQ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330484&extension=ts&play_token=KDRZHK1cqN
+#EXTINF:0 group-title="AR| BEIN SPORTS SD" tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORTS-XTRA.png",AR| BEIN SPORTS 3 XTRA LQ
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330485&extension=ts&play_token=60apo5S3TD
+#EXTINF:0 group-title="AR| BEIN SPORTS SD" tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS.png",##### BEIN SPORTS SD #####
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1294856&extension=ts&play_token=mmQI27THLL
+#EXTINF:0 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TOD.png" group-title="AR| BEIN SPORTS SD",AR| TOD 360 SD ( EVENT ONLY )
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1347224&extension=ts&play_token=slqpkKFoYi
+#EXTINF:0 group-title="AR| BEIN SPORTS SD" tvg-logo="http://103.176.90.118/piconsnew/beinsportsnews.png",AR| BEIN SPORTS NEWS SD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330455&extension=ts&play_token=Eag7bm7ptL
+#EXTINF:0 tvg-logo="http://103.176.90.118/picons/logos/BEINSPORTS-GLOBAL.jpeg" group-title="AR| BEIN SPORTS SD",AR| BEIN SPORTS GLOBAL SD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330456&extension=ts&play_token=G7Qar4biGA
+#EXTINF:0 group-title="AR| BEIN SPORTS SD" tvg-logo="http://103.176.90.118/piconsnew/beinsportshd1.png",AR| BEIN SPORTS 1 SD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330457&extension=ts&play_token=eFN1KMeuqh
+#EXTINF:0 group-title="AR| BEIN SPORTS SD" tvg-logo="http://103.176.90.118/piconsnew/beinsportshd2.png",AR| BEIN SPORTS 2 SD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330458&extension=ts&play_token=rSMqPwXTvN
+#EXTINF:0 group-title="AR| BEIN SPORTS SD" tvg-logo="http://103.176.90.118/piconsnew/beinsportshd3.png",AR| BEIN SPORTS 3 SD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330459&extension=ts&play_token=eNz8zHd6R6
+#EXTINF:0 group-title="AR| BEIN SPORTS SD" tvg-logo="http://103.176.90.118/piconsnew/beinsportshd4.png",AR| BEIN SPORTS 4 SD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330460&extension=ts&play_token=iS6S2rd9pp
+#EXTINF:0 group-title="AR| BEIN SPORTS SD" tvg-logo="http://103.176.90.118/piconsnew/beinsports5.png",AR| BEIN SPORTS 5 SD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330461&extension=ts&play_token=INcr6SZpSR
+#EXTINF:0 tvg-logo="http://103.176.90.118/piconsnew/beinsports6.png" group-title="AR| BEIN SPORTS SD",AR| BEIN SPORTS 6 SD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330462&extension=ts&play_token=kiXztm2Xss
+#EXTINF:0 group-title="AR| BEIN SPORTS SD" tvg-logo="http://103.176.90.118/piconsnew/beinsports7.png",AR| BEIN SPORTS 7 SD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330463&extension=ts&play_token=UoPHGpV5HK
+#EXTINF:0 tvg-logo="http://103.176.90.118/piconsnew/beinsports8.png" group-title="AR| BEIN SPORTS SD",AR| BEIN SPORTS 8 SD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330464&extension=ts&play_token=DV8ZKZQeTl
+#EXTINF:0 group-title="AR| BEIN SPORTS SD" tvg-logo="http://103.176.90.118/piconsnew/beinsportshd9.png",AR| BEIN SPORTS 9 SD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330465&extension=ts&play_token=gxug1znbyv
+#EXTINF:0 group-title="AR| BEIN SPORTS SD" tvg-logo="http://103.176.90.118/piconsnew/beinsportsxtra1.png",AR| BEIN SPORTS 1 XTRA SD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330466&extension=ts&play_token=EOlUpy0cnQ
+#EXTINF:0 group-title="AR| BEIN SPORTS SD" tvg-logo="http://103.176.90.118/piconsnew/beinsportsxtra2.png",AR| BEIN SPORTS 2 XTRA SD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330467&extension=ts&play_token=w5ILwFJ9Oj
+#EXTINF:0 tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORTS-XTRA.png" group-title="AR| BEIN SPORTS SD",AR| BEIN SPORTS 3 XTRA SD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330468&extension=ts&play_token=FFYdmkgdFE
+#EXTINF:0 tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORTS-1-EN.png" group-title="AR| BEIN SPORTS SD",AR| BEIN SPORTS 1 ENGLISH SD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330469&extension=ts&play_token=eTeWkcciJM
+#EXTINF:0 tvg-logo="http://103.176.90.118/picons/logos/BEINSPORTS-2-EN.png" group-title="AR| BEIN SPORTS SD",AR| BEIN SPORTS 2 ENGLISH SD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330470&extension=ts&play_token=ekzaRZps7c
+#EXTINF:0 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS.png" group-title="AR| BEIN SPORTS HEVC",##### BEIN SPORTS HEVC #####
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1294788&extension=ts&play_token=tBciPgBOe0
+#EXTINF:0 tvg-logo="http://103.176.90.118/piconsnew/beinsports1.png" group-title="AR| BEIN SPORTS HEVC",AR| BEIN SPORTS 1 HEVC
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330433&extension=ts&play_token=uf429BnWPS
+#EXTINF:0 tvg-logo="http://103.176.90.118/piconsnew/beinsports2.png" group-title="AR| BEIN SPORTS HEVC",AR| BEIN SPORTS 2 HEVC
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330432&extension=ts&play_token=6RfwVCfohQ
+#EXTINF:0 group-title="AR| BEIN SPORTS HEVC" tvg-logo="http://103.176.90.118/piconsnew/beinsports3.png",AR| BEIN SPORTS 3 HEVC
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330431&extension=ts&play_token=BQ6bWrjRIV
+#EXTINF:0 group-title="AR| BEIN SPORTS HEVC" tvg-logo="http://103.176.90.118/piconsnew/beinsports4.png",AR| BEIN SPORTS 4 HEVC
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330430&extension=ts&play_token=ntqUVJ8hun
+#EXTINF:0 group-title="AR| BEIN SPORTS HEVC" tvg-logo="http://103.176.90.118/piconsnew/beinsports5.png",AR| BEIN SPORTS 5 HEVC
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330429&extension=ts&play_token=227uDf5Eub
+#EXTINF:0 group-title="AR| BEIN SPORTS HEVC" tvg-logo="http://103.176.90.118/piconsnew/beinsports6.png",AR| BEIN SPORTS 6 HEVC
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330428&extension=ts&play_token=ibiy7tb0UP
+#EXTINF:0 group-title="AR| BEIN SPORTS HEVC" tvg-logo="http://103.176.90.118/piconsnew/beinsports7.png",AR| BEIN SPORTS 7 HEVC
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330427&extension=ts&play_token=vVLV0naeGF
+#EXTINF:0 tvg-logo="http://103.176.90.118/piconsnew/beinsports8.png" group-title="AR| BEIN SPORTS HEVC",AR| BEIN SPORTS 8 HEVC
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330426&extension=ts&play_token=ccj3g4Ah6p
+#EXTINF:0 tvg-logo="http://103.176.90.118/piconsnew/beinsportshd9.png" group-title="AR| BEIN SPORTS HEVC",AR| BEIN SPORTS 9 HEVC
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330425&extension=ts&play_token=DmnycZBSdN
+#EXTINF:0 group-title="AR| BEIN SPORTS HEVC" tvg-logo="http://103.176.90.118/piconsnew/beinsportsxtra1.png",AR| BEIN SPORTS 1 XTRA HEVC
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330424&extension=ts&play_token=s446HsyQFO
+#EXTINF:0 group-title="AR| BEIN SPORTS HEVC" tvg-logo="http://103.176.90.118/piconsnew/beinsportsxtra2.png",AR| BEIN SPORTS 2 XTRA HEVC
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330423&extension=ts&play_token=wXF4pxP0cD
+#EXTINF:0 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-3-XTRA.png" group-title="AR| BEIN SPORTS HEVC",AR| BEIN SPORTS 3 XTRA HEVC
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330422&extension=ts&play_token=nzUdleg0SV
+#EXTINF:0 group-title="AR| BEIN SPORTS HEVC" tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORTS-1-EN.png",AR| BEIN SPORTS 1 ENGLISH HEVC
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330421&extension=ts&play_token=W3SDmdaJOd
+#EXTINF:0 tvg-logo="http://103.176.90.118/picons/logos/BEINSPORTS-2-EN.png" group-title="AR| BEIN SPORTS HEVC",AR| BEIN SPORTS 2 ENGLISH HEVC
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330420&extension=ts&play_token=BPDGGOBhWl
+#EXTINF:0 group-title="AR| BEIN SPORTS NX" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS1.png",BEIN SPORTS 1 720
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660414&extension=ts&play_token=Nyyju6BkDa
+#EXTINF:0 group-title="AR| BEIN SPORTS NX" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS2.png",BEIN SPORTS 2 720
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660412&extension=ts&play_token=uMh9MJAkH3
+#EXTINF:0 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS3.png" group-title="AR| BEIN SPORTS NX",BEIN SPORTS 3 720
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660410&extension=ts&play_token=J6cVNW8fjg
+#EXTINF:0 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS4.png" group-title="AR| BEIN SPORTS NX",BEIN SPORTS 4 720
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660408&extension=ts&play_token=4ZlyX8BPZb
+#EXTINF:0 group-title="AR| BEIN SPORTS NX" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS5.png",BEIN SPORTS 5 720
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660406&extension=ts&play_token=RbrFMxCsWB
+#EXTINF:0 group-title="AR| BEIN SPORTS NX" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS6.png",BEIN SPORTS 6 720
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660404&extension=ts&play_token=XudyXaLhDa
+#EXTINF:0 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS7.png" group-title="AR| BEIN SPORTS NX",BEIN SPORTS 7 720
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660402&extension=ts&play_token=nJxqWOh2gy
+#EXTINF:0 group-title="AR| BEIN SPORTS NX" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS8.png",BEIN SPORTS 8 720
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660400&extension=ts&play_token=ClZBy6mNxA
+#EXTINF:0 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS9.png" group-title="AR| BEIN SPORTS NX",BEIN SPORTS 9 720
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660398&extension=ts&play_token=LhQCmNHHPO
+#EXTINF:0 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-ENGLISH-1.png" group-title="AR| BEIN SPORTS NX",BEIN SPORTS ENGLISH 1 720
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660396&extension=ts&play_token=cLhnxyrj9K
+#EXTINF:0 group-title="AR| BEIN SPORTS NX" tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-ENGLISH-2.png",BEIN SPORTS ENGLISH 2 720
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660394&extension=ts&play_token=qpjIi9gcd8
+#EXTINF:0 group-title="AR| BEIN SPORTS NX" tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-XTRA-1.png",BEIN SPORTS XTRA 1 720
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660391&extension=ts&play_token=GoBG1ep3Bn
+#EXTINF:0 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-XTRA-2.png" group-title="AR| BEIN SPORTS NX",BEIN SPORTS XTRA 2 720
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660387&extension=ts&play_token=NrKGcwrwSx
+#EXTINF:0 group-title="AR| BEIN SPORTS NX" tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-XTRA-3.png",BEIN SPORTS XTRA 3 720
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660388&extension=ts&play_token=nePJ64g98O
+#EXTINF:0 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-AFC.png" group-title="AR| BEIN SPORTS NX",BEIN SPORTS  AFC 720
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660386&extension=ts&play_token=8bInwwANef
+#EXTINF:0 group-title="AR| BEIN SPORTS NX" tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-AFC-1.png",BEIN SPORTS AFC 1 720
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660383&extension=ts&play_token=H8DPYsMPzs
+#EXTINF:0 group-title="AR| BEIN SPORTS NX" tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-AFC-2.png",BEIN SPORTS AFC 2 720
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660381&extension=ts&play_token=IfELdQRAyB
+#EXTINF:0 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-AFC-3.png" group-title="AR| BEIN SPORTS NX",BEIN SPORTS AFC 3 720
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660379&extension=ts&play_token=kH9x76j2Pg
+#EXTINF:0 group-title="AR| BEIN SPORTS NX" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS1.png",BEIN SPORTS 1 4k
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660415&extension=ts&play_token=l5a4Ym6VNE
+#EXTINF:0 tvg-logo="http://103.176.90.118/picons/logos/logos/BEINSPORTS2.png" group-title="AR| BEIN SPORTS NX",BEIN SPORTS 2 4k
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660426&extension=ts&play_token=4q9ja2kaVD
+#EXTINF:0 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS3.png" group-title="AR| BEIN SPORTS NX",BEIN SPORTS 3 4k
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660425&extension=ts&play_token=woCtvtcEgJ
+#EXTINF:0 group-title="AR| BEIN SPORTS NX" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS4.png",BEIN SPORTS 4 4k
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660424&extension=ts&play_token=I2p3uqc2Ib
+#EXTINF:0 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS5.png" group-title="AR| BEIN SPORTS NX",BEIN SPORTS 5 4k
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660423&extension=ts&play_token=5ElY4CdN0t
+#EXTINF:0 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS6.png" group-title="AR| BEIN SPORTS NX",BEIN SPORTS 6 4k
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660422&extension=ts&play_token=6uBjpmfG7g
+#EXTINF:0 group-title="AR| BEIN SPORTS NX" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS7.png",BEIN SPORTS 7 4k
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660421&extension=ts&play_token=cebb5cuOJx
+#EXTINF:0 group-title="AR| BEIN SPORTS NX" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS8.png",BEIN SPORTS 8 4k
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660420&extension=ts&play_token=v5pArblRWI
+#EXTINF:0 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS9.png" group-title="AR| BEIN SPORTS NX",BEIN SPORTS 9 4k
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660419&extension=ts&play_token=RDXh6IhsKj
+#EXTINF:0 group-title="AR| BEIN SPORTS NX" tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-ENGLISH-1.png",BEIN SPORTS ENGLISH 1 4k
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660418&extension=ts&play_token=DPpKfhDUZJ
+#EXTINF:0 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-ENGLISH-2.png" group-title="AR| BEIN SPORTS NX",BEIN SPORTS ENGLISH 2 4k
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660417&extension=ts&play_token=us52GxLogN
+#EXTINF:0 group-title="AR| BEIN SPORTS NX" tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-XTRA-1.png",BEIN SPORTS XTRA 1 4k
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660392&extension=ts&play_token=MZaMhLoBYk
+#EXTINF:0 group-title="AR| BEIN SPORTS NX" tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-XTRA-2.png",BEIN SPORTS XTRA 2 4k
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660390&extension=ts&play_token=iVBRVEqUGV
+#EXTINF:0 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-XTRA-3.png" group-title="AR| BEIN SPORTS NX",BEIN SPORTS XTRA 3 4k
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660389&extension=ts&play_token=lzHotCw2pl
+#EXTINF:0 group-title="AR| BEIN SPORTS NX" tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-AFC.png",BEIN SPORTS  AFC 4k
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660416&extension=ts&play_token=nkGDPsJEGi
+#EXTINF:0 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-AFC-1.png" group-title="AR| BEIN SPORTS NX",BEIN SPORTS AFC 1 4K
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660384&extension=ts&play_token=S0MnVt3VFl
+#EXTINF:0 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-AFC-2.png" group-title="AR| BEIN SPORTS NX",BEIN SPORTS AFC 2 4K
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660382&extension=ts&play_token=bgu3wxTbXG
+#EXTINF:0 group-title="AR| BEIN SPORTS NX" tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-AFC-3.png",BEIN SPORTS AFC 3 4K
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660380&extension=ts&play_token=SyDS44RRlB
+#EXTINF:0 group-title="AR| BEIN SPORTS NX" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS1.png",BEIN SPORTS 1 480
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660413&extension=ts&play_token=xOhictIdHu
+#EXTINF:0 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS2.png" group-title="AR| BEIN SPORTS NX",BEIN SPORTS 2 480
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660411&extension=ts&play_token=pcJpCnw0Av
+#EXTINF:0 group-title="AR| BEIN SPORTS NX" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS3.png",BEIN SPORTS 3 480
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660409&extension=ts&play_token=zhvnEwqQ8q
+#EXTINF:0 group-title="AR| BEIN SPORTS NX" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS4.png",BEIN SPORTS 4 480
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660407&extension=ts&play_token=kThzQNgpvP
+#EXTINF:0 group-title="AR| BEIN SPORTS NX" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS5.png",BEIN SPORTS 5 480
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660405&extension=ts&play_token=kChCCso0qE
+#EXTINF:0 group-title="AR| BEIN SPORTS NX" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS6.png",BEIN SPORTS 6 480
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660403&extension=ts&play_token=FwrIR0TLzk
+#EXTINF:0 group-title="AR| BEIN SPORTS NX" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS7.png",BEIN SPORTS 7 480
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660401&extension=ts&play_token=jBelm425By
+#EXTINF:0 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS8.png" group-title="AR| BEIN SPORTS NX",BEIN SPORTS 8 480
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660399&extension=ts&play_token=9E7nG3fGiQ
+#EXTINF:0 group-title="AR| BEIN SPORTS NX" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS9.png",BEIN SPORTS 9 480
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660397&extension=ts&play_token=wh9GuABqv4
+#EXTINF:0 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-ENGLISH-1.png" group-title="AR| BEIN SPORTS NX",BEIN SPORTS ENGLISH 1 480
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660395&extension=ts&play_token=vU59yPKzBC
+#EXTINF:0 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-ENGLISH-2.png" group-title="AR| BEIN SPORTS NX",BEIN SPORTS ENGLISH 2 480
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660393&extension=ts&play_token=VlWHn9xRe3
+#EXTINF:0 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-AFC.png" group-title="AR| BEIN SPORTS NX",BEIN SPORTS  AFC 480
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1660385&extension=ts&play_token=pgAgvUK7lW
+#EXTINF:0 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS.png" group-title="AR| BEIN SPORTS FHD",##### BEIN SPORTS FHD #####
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1294774&extension=ts&play_token=4gET3mEDb5
+#EXTINF:0 group-title="AR| BEIN SPORTS FHD" tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN-4K.png",AR| BEIN SPORTS 4K/UHD [EVENT]
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1764953&extension=ts&play_token=9W84Z0BCdV
+#EXTINF:0 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TOD.png" group-title="AR| BEIN SPORTS FHD",AR| TOD 360 ULTRA 4K ( EVENT ONLY )
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1347222&extension=ts&play_token=tGDGnDbJrP
+#EXTINF:0 group-title="AR| BEIN SPORTS FHD" tvg-logo="http://103.176.90.118/piconsnew/beinsportsnews.png",AR| BEIN SPORTS NEWS FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1294773&extension=ts&play_token=ZpKGhqw4Cy
+#EXTINF:0 tvg-logo="http://103.176.90.118/piconsnew/beinsports.png" group-title="AR| BEIN SPORTS FHD",AR| BEIN SPORTS GLOBAL FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1294772&extension=ts&play_token=JDIEQGCWx7
+#EXTINF:0 tvg-logo="http://103.176.90.118/piconsnew/beinsports1.png" group-title="AR| BEIN SPORTS FHD",AR| BEIN SPORTS 1 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1294764&extension=ts&play_token=hwBh0zosWm
+#EXTINF:0 group-title="AR| BEIN SPORTS FHD" tvg-logo="http://103.176.90.118/piconsnew/beinsports2.png",AR| BEIN SPORTS 2 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1294763&extension=ts&play_token=CcqccrwqWV
+#EXTINF:0 group-title="AR| BEIN SPORTS FHD" tvg-logo="http://103.176.90.118/piconsnew/beinsports3.png",AR| BEIN SPORTS 3 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1294762&extension=ts&play_token=ys41GkpIZm
+#EXTINF:0 group-title="AR| BEIN SPORTS FHD" tvg-logo="http://103.176.90.118/piconsnew/beinsports4.png",AR| BEIN SPORTS 4 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1294761&extension=ts&play_token=41tKkRVTLY
+#EXTINF:0 group-title="AR| BEIN SPORTS FHD" tvg-logo="http://103.176.90.118/piconsnew/beinsports5.png",AR| BEIN SPORTS 5 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1294760&extension=ts&play_token=2AoD2hZ491
+#EXTINF:0 group-title="AR| BEIN SPORTS FHD" tvg-logo="http://103.176.90.118/piconsnew/beinsports6.png",AR| BEIN SPORTS 6 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1294759&extension=ts&play_token=M3nov4w5br
+#EXTINF:0 group-title="AR| BEIN SPORTS FHD" tvg-logo="http://103.176.90.118/piconsnew/beinsports7.png",AR|  BEIN  SPORTS 7 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1294758&extension=ts&play_token=zWA2CIctCY
+#EXTINF:0 group-title="AR| BEIN SPORTS FHD" tvg-logo="http://103.176.90.118/piconsnew/beinsports8.png",AR|  BEIN  SPORTS 8 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330412&extension=ts&play_token=NieBHToV9S
+#EXTINF:0 group-title="AR| BEIN SPORTS FHD" tvg-logo="http://103.176.90.118/piconsnew/beinsportshd9.png",AR|  BEIN  SPORTS 9 FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330413&extension=ts&play_token=BYRUQvy08J
+#EXTINF:0 tvg-logo="http://103.176.90.118/piconsnew/beinsportsxtra1.png" group-title="AR| BEIN SPORTS FHD",AR| BEIN SPORTS 1 XSTRA FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1294895&extension=ts&play_token=laN1vSkkwM
+#EXTINF:0 group-title="AR| BEIN SPORTS FHD" tvg-logo="http://103.176.90.118/piconsnew/beinsportsxtra2.png",AR| BEIN SPORTS 2 XSTRA FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1294894&extension=ts&play_token=qa2OkMRPIh
+#EXTINF:0 group-title="AR| BEIN SPORTS FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-3-XTRA.png",AR| BEIN SPORTS 3 XSTRA FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330411&extension=ts&play_token=T6fSHLyOpL
+#EXTINF:0 group-title="AR| BEIN SPORTS FHD" tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORTS-1-EN.png",AR| BEIN SPORTS 1 ENGLISH FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330419&extension=ts&play_token=wQjL6Th7eF
+#EXTINF:0 tvg-logo="http://103.176.90.118/picons/logos/BEINSPORTS-2-EN.png" group-title="AR| BEIN SPORTS FHD",AR| BEIN SPORTS 2 ENGLISH FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330418&extension=ts&play_token=xYdnZ1mzH2
+#EXTINF:0 group-title="AR| BEIN SPORTS FHD" tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORTS-FRENCH-1.png",AR| BEIN SPORTS 1 FRANCE FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330417&extension=ts&play_token=FWleKenb2s
+#EXTINF:0 group-title="AR| BEIN SPORTS FHD" tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORTS-FRENCH-2.png",AR| BEIN SPORTS 2 FRANCE FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330416&extension=ts&play_token=uReHgHZ8tX
+#EXTINF:0 tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORT-3-FRENCH.png" group-title="AR| BEIN SPORTS FHD",AR| BEIN SPORTS 3 FRANCE FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330415&extension=ts&play_token=74kQPtUS0m
+#EXTINF:0 group-title="AR| BEIN SPORTS FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS-NBA.png",AR| BEIN SPORTS NBA FHD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330414&extension=ts&play_token=P0VkXBnlsC
+#EXTINF:0 group-title="FR| SPORTS HD" tvg-logo="http://103.176.90.118/picons/logos/france/FRANCE.png",##### BEIN SPORTS HD #####
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=815046&extension=ts&play_token=r1CceBFr1S
+#EXTINF:0 group-title="AR| BEIN SPORTS HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/STC-PPV.png",AR| STC PPV [LIVE-EVENTS]
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1356796&extension=ts&play_token=nkS8T2ydqL
+#EXTINF:0 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TOD.png" group-title="AR| BEIN SPORTS HD",AR| TOD 360 HD ( EVENT ONLY )
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1347223&extension=ts&play_token=aBhXUPQG3c
+#EXTINF:0 group-title="AR| BEIN SPORTS HD" tvg-logo="http://103.176.90.118/piconsnew/beinsportsnews.png",AR| BEIN SPORTS NEWS HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330434&extension=ts&play_token=4ydmQXg8tq
+#EXTINF:0 group-title="AR| BEIN SPORTS HD" tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-GLOBAL.png",AR| BEIN SPORTS GLOBAL HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330435&extension=ts&play_token=Q80jQvtaDl
+#EXTINF:0 group-title="AR| BEIN SPORTS HD" tvg-logo="http://103.176.90.118/piconsnew/beinsport1hd.png",AR| BEIN SPORTS 1 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330437&extension=ts&play_token=3atqa7B6SC
+#EXTINF:0 tvg-logo="http://103.176.90.118/piconsnew/beinsports2.png" group-title="AR| BEIN SPORTS HD",AR| BEIN SPORTS 2 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330438&extension=ts&play_token=X3ULJmGCiv
+#EXTINF:0 group-title="AR| BEIN SPORTS HD" tvg-logo="http://103.176.90.118/piconsnew/beinsports3.png",AR| BEIN SPORTS 3 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330439&extension=ts&play_token=7ZwkinP6Ku
+#EXTINF:0 group-title="AR| BEIN SPORTS HD" tvg-logo="http://103.176.90.118/piconsnew/beinsports4.png",AR| BEIN SPORTS 4 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330440&extension=ts&play_token=j9NoXc5nFE
+#EXTINF:0 group-title="AR| BEIN SPORTS HD" tvg-logo="http://103.176.90.118/piconsnew/beinsports5.png",AR| BEIN SPORTS 5 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330441&extension=ts&play_token=bkp2OsYvuC
+#EXTINF:0 group-title="AR| BEIN SPORTS HD" tvg-logo="http://103.176.90.118/piconsnew/beinsports6.png",AR| BEIN SPORTS 6 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330442&extension=ts&play_token=rErFrcR1na
+#EXTINF:0 group-title="AR| BEIN SPORTS HD" tvg-logo="http://103.176.90.118/piconsnew/beinsports7.png",AR| BEIN SPORTS 7 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330443&extension=ts&play_token=g18U7Xahgz
+#EXTINF:0 group-title="AR| BEIN SPORTS HD" tvg-logo="http://103.176.90.118/piconsnew/beinsports8.png",AR| BEIN SPORTS 8 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330444&extension=ts&play_token=nVLfbYVpmq
+#EXTINF:0 tvg-logo="http://103.176.90.118/piconsnew/beinsportshd9.png" group-title="AR| BEIN SPORTS HD",AR| BEIN SPORTS 9 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330445&extension=ts&play_token=L6Tpx8SRLf
+#EXTINF:0 tvg-logo="http://103.176.90.118/piconsnew/beinsportsxtra1.png" group-title="AR| BEIN SPORTS HD",AR| BEIN SPORTS 1 XTRA HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330446&extension=ts&play_token=2aS5tXbrrS
+#EXTINF:0 group-title="AR| BEIN SPORTS HD" tvg-logo="http://103.176.90.118/piconsnew/beinsportsxtra2.png",AR| BEIN SPORTS 2 XTRA HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330447&extension=ts&play_token=iYSZ5KQdW3
+#EXTINF:0 group-title="AR| BEIN SPORTS HD" tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-3-XTRA.png",AR| BEIN SPORTS 3 XTRA HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330448&extension=ts&play_token=n3RXjE2K4j
+#EXTINF:0 group-title="AR| BEIN SPORTS HD" tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORTS-1-EN.png",AR| BEIN SPORTS 1 ENGLISH HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330449&extension=ts&play_token=FwMYFm7kCA
+#EXTINF:0 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-2-ENGLISH.png" group-title="AR| BEIN SPORTS HD",AR| BEIN SPORTS 2 ENGLISH HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330450&extension=ts&play_token=vbvCmdtveN
+#EXTINF:0 tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORTS-FRENCH-1.png" group-title="AR| BEIN SPORTS HD",AR| BEIN SPORTS 1 FRANCE HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330451&extension=ts&play_token=TGHjq8PdZB
+#EXTINF:0 tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORTS-FRENCH-2.png" group-title="AR| BEIN SPORTS HD",AR| BEIN SPORTS 2 FRANCE HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330452&extension=ts&play_token=Oxqca5SFSq
+#EXTINF:0 group-title="AR| BEIN SPORTS HD" tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORT-3-FRENCH.png",AR| BEIN SPORTS 3 FRANCE HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330453&extension=ts&play_token=8hNtiPjmEs
+#EXTINF:0 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BEIN-SPORTS-NBA.png" group-title="AR| BEIN SPORTS HD",AR| BEIN SPORTS NBA HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:3B:D4:62&stream=1330454&extension=ts&play_token=4AQ2MSlFil
